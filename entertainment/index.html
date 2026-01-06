@@ -1,1 +1,377 @@
-<html>娱乐</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AsVox | Immersive Audio</title>
+    <style>
+        /* --- HIGH-END TECH AESTHETIC --- */
+        :root {
+            --bg-color: #030303;
+            --accent-cyan: #00f2ff;
+            --accent-purple: #bd00ff;
+            --text-dim: rgba(255, 255, 255, 0.3);
+            --glass-bg: rgba(255, 255, 255, 0.03);
+            --glass-border: rgba(255, 255, 255, 0.1);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            background-color: var(--bg-color);
+            color: #ffffff;
+            font-family: 'Inter', sans-serif; /* Keep clean font */
+            overflow: hidden;
+            height: 100vh;
+            width: 100vw;
+            user-select: none;
+        }
+
+        /* --- UI LAYER --- */
+        #ui-layer {
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 100%;
+            pointer-events: none; /* Allows click-through to 3D scene */
+            z-index: 10;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 40px;
+        }
+
+        /* --- HEADER --- */
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .brand {
+            font-size: 1.1rem;
+            font-weight: 800; /* Thicker font for impact */
+            letter-spacing: 4px;
+            color: #fff;
+            text-transform: uppercase;
+            mix-blend-mode: exclusion;
+        }
+
+        .track-info {
+            text-align: right;
+        }
+
+        .track-name {
+            font-family: 'Courier New', monospace; /* Tech vibe */
+            font-size: 0.75rem;
+            color: var(--accent-cyan);
+            letter-spacing: 1px;
+            opacity: 0; /* Hidden by default */
+            transition: opacity 0.5s;
+            text-transform: uppercase;
+        }
+
+        /* --- BOTTOM BAR (Footer) --- */
+        .footer {
+            display: grid;
+            grid-template-columns: 1fr auto 1fr; /* Left, Center, Right */
+            align-items: end;
+            width: 100%;
+            pointer-events: none;
+        }
+
+        /* Center: Upload Button */
+        .footer-center {
+            display: flex;
+            justify-content: center;
+            pointer-events: auto; /* Enable clicks */
+        }
+
+        .upload-btn {
+            background: var(--glass-bg);
+            border: 1px solid var(--glass-border);
+            color: rgba(255, 255, 255, 0.8);
+            padding: 12px 30px;
+            font-size: 0.7rem;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            cursor: pointer;
+            backdrop-filter: blur(8px);
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .upload-btn:hover {
+            background: rgba(255, 255, 255, 0.1);
+            border-color: var(--accent-cyan);
+            box-shadow: 0 0 15px rgba(0, 242, 255, 0.15);
+            color: #fff;
+        }
+
+        /* Right: Frequency Monitor */
+        .footer-right {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-end;
+            justify-content: flex-end;
+        }
+
+        .monitor-label {
+            font-family: 'Courier New', monospace;
+            font-size: 0.6rem;
+            color: var(--text-dim);
+            margin-bottom: 5px;
+            letter-spacing: 1px;
+        }
+
+        #mini-monitor {
+            width: 120px;
+            height: 40px;
+            border-bottom: 1px solid var(--accent-cyan);
+            border-left: 1px solid var(--glass-border);
+            background: linear-gradient(to top, rgba(0, 242, 255, 0.05), transparent);
+        }
+
+        /* Hidden Inputs */
+        input[type="file"] { display: none; }
+        
+        /* --- CANVAS 3D --- */
+        #canvas-container {
+            position: absolute;
+            top: 0; left: 0;
+            z-index: 1;
+        }
+    </style>
+    <!-- Load Three.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+</head>
+<body>
+
+    <div id="ui-layer">
+        <!-- TOP ROW -->
+        <header class="header">
+            <div class="brand">AsVox</div>
+            <div class="track-info">
+                <div class="track-name" id="track-name">NO DATA</div>
+            </div>
+        </header>
+
+        <!-- BOTTOM ROW -->
+        <footer class="footer">
+            <!-- Left: Empty for balance -->
+            <div class="footer-left"></div>
+
+            <!-- Center: Controls -->
+            <div class="footer-center">
+                <label class="upload-btn">
+                    Select Audio
+                    <input type="file" id="audio-input" accept="audio/*">
+                </label>
+            </div>
+
+            <!-- Right: Frequency Monitor -->
+            <div class="footer-right">
+                <div class="monitor-label">FREQ_MONITOR // R-22</div>
+                <canvas id="mini-monitor" width="120" height="40"></canvas>
+            </div>
+        </footer>
+    </div>
+
+    <div id="canvas-container"></div>
+    <audio id="audio-element" loop></audio>
+
+    <script>
+        // --- 1. THREE.JS SCENE (VISUALS UNCHANGED) ---
+        const scene = new THREE.Scene();
+        scene.fog = new THREE.FogExp2(0x030303, 0.002);
+
+        const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+        camera.position.z = 35;
+
+        const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        renderer.setPixelRatio(window.devicePixelRatio);
+        document.getElementById('canvas-container').appendChild(renderer.domElement);
+
+        // Particle Sphere
+        const geometry = new THREE.SphereGeometry(12, 128, 128); 
+        const material = new THREE.PointsMaterial({
+            size: 0.15,
+            color: 0xffffff,
+            transparent: true,
+            opacity: 0.6,
+            blending: THREE.AdditiveBlending,
+            vertexColors: true
+        });
+
+        const count = geometry.attributes.position.count;
+        const colors = [];
+        const color1 = new THREE.Color(0x00f2ff);
+        const color2 = new THREE.Color(0xbd00ff);
+        const originalPositions = geometry.attributes.position.array.slice();
+
+        for (let i = 0; i < count; i++) {
+            const mixed = color1.clone().lerp(color2, Math.random());
+            colors.push(mixed.r, mixed.g, mixed.b);
+        }
+        geometry.setAttribute('color', new THREE.Float32BufferAttribute(colors, 3));
+
+        const sphere = new THREE.Points(geometry, material);
+        scene.add(sphere);
+
+        // --- 2. AUDIO & MONITOR SYSTEM ---
+        let audioContext, analyser, dataArray;
+        let isAudioInit = false;
+        const audioElement = document.getElementById('audio-element');
+        const inputElement = document.getElementById('audio-input');
+        
+        // Mini Monitor Canvas Context
+        const monitorCanvas = document.getElementById('mini-monitor');
+        const monitorCtx = monitorCanvas.getContext('2d');
+
+        // Smoothed Values for 3D Sphere
+        let smoothedBass = 0;
+        let smoothedAvg = 0;
+
+        inputElement.addEventListener('change', function(e) {
+            const file = e.target.files[0];
+            if (!file) return;
+
+            const nameDisplay = document.getElementById('track-name');
+            nameDisplay.textContent = file.name;
+            nameDisplay.style.opacity = '1';
+
+            if (!audioContext) {
+                audioContext = new (window.AudioContext || window.webkitAudioContext)();
+                analyser = audioContext.createAnalyser();
+                analyser.fftSize = 256; // Smaller FFT size is enough for visualizer bars
+                analyser.smoothingTimeConstant = 0.8; 
+
+                const source = audioContext.createMediaElementSource(audioElement);
+                source.connect(analyser);
+                analyser.connect(audioContext.destination);
+                
+                dataArray = new Uint8Array(analyser.frequencyBinCount);
+                isAudioInit = true;
+            }
+
+            const objectUrl = URL.createObjectURL(file);
+            audioElement.src = objectUrl;
+            audioElement.play();
+        });
+
+        // --- 3. HELPER FUNCTIONS ---
+        function lerp(start, end, amt) {
+            return (1 - amt) * start + amt * end;
+        }
+
+        // --- 4. ANIMATION LOOP ---
+        let time = 0;
+        let mouseX = 0, mouseY = 0;
+
+        document.addEventListener('mousemove', (e) => {
+            mouseX = (e.clientX - window.innerWidth / 2) * 0.0005;
+            mouseY = (e.clientY - window.innerHeight / 2) * 0.0005;
+        });
+
+        function animate() {
+            requestAnimationFrame(animate);
+            time += 0.005;
+
+            // Variables for audio data
+            let bassTarget = 0;
+            let avgTarget = 0;
+
+            if (isAudioInit) {
+                analyser.getByteFrequencyData(dataArray);
+                
+                // 1. Process Data for 3D Sphere
+                const overallSum = dataArray.reduce((a, b) => a + b, 0);
+                avgTarget = overallSum / dataArray.length;
+                bassTarget = dataArray[5] / 255; // Low frequency index
+
+                // 2. Draw Mini Monitor (Right Bottom Corner)
+                drawMonitor(dataArray);
+            } else {
+                // Idle monitor animation
+                drawIdleMonitor(time);
+            }
+
+            // Smooth audio values for physics
+            smoothedBass = lerp(smoothedBass, bassTarget, 0.08); 
+            smoothedAvg = lerp(smoothedAvg, avgTarget / 255, 0.1);
+
+            // --- 3D SPHERE LOGIC (UNCHANGED) ---
+            const scaleTarget = 1 + (smoothedBass * 0.3); 
+            sphere.scale.lerp(new THREE.Vector3(scaleTarget, scaleTarget, scaleTarget), 0.05);
+
+            const positions = sphere.geometry.attributes.position.array;
+            const audioForce = smoothedAvg * 5.0; 
+
+            for (let i = 0; i < count; i++) {
+                const px = originalPositions[i * 3];
+                const py = originalPositions[i * 3 + 1];
+                const pz = originalPositions[i * 3 + 2];
+
+                let noise = Math.sin(px * 0.4 + time * 2) * 
+                            Math.cos(py * 0.3 + time * 1.5) * 
+                            Math.sin(pz * 0.4 + time * 2.5);
+
+                const displacement = 1 + (noise * 0.1) + (noise * audioForce * 0.25);
+
+                positions[i * 3]     = px * displacement;
+                positions[i * 3 + 1] = py * displacement;
+                positions[i * 3 + 2] = pz * displacement;
+            }
+            sphere.geometry.attributes.position.needsUpdate = true;
+            sphere.rotation.y += 0.001 + (smoothedAvg * 0.002); 
+            sphere.rotation.x += (mouseY - sphere.rotation.x) * 0.05;
+            sphere.rotation.y += (mouseX - sphere.rotation.y) * 0.05;
+
+            renderer.render(scene, camera);
+        }
+
+        // --- 5. MONITOR DRAWING LOGIC ---
+        function drawMonitor(data) {
+            monitorCtx.clearRect(0, 0, monitorCanvas.width, monitorCanvas.height);
+            monitorCtx.fillStyle = '#00f2ff'; // Cyan color
+            
+            const barWidth = 3;
+            const gap = 1;
+            const step = Math.floor(data.length / (monitorCanvas.width / (barWidth + gap)));
+
+            for (let i = 0; i < monitorCanvas.width; i += (barWidth + gap)) {
+                // Grab data from frequency array
+                const dataIndex = Math.floor(i / (barWidth + gap)) * step;
+                const value = data[dataIndex] || 0;
+                const percent = value / 255;
+                const barHeight = percent * monitorCanvas.height;
+
+                // Draw bar from bottom up
+                monitorCtx.globalAlpha = 0.5 + (percent * 0.5); // Brighter if louder
+                monitorCtx.fillRect(i, monitorCanvas.height - barHeight, barWidth, barHeight);
+            }
+        }
+
+        function drawIdleMonitor(t) {
+            monitorCtx.clearRect(0, 0, monitorCanvas.width, monitorCanvas.height);
+            monitorCtx.fillStyle = 'rgba(255, 255, 255, 0.1)';
+            
+            // Just a simple sine wave for idle state
+            for (let i = 0; i < monitorCanvas.width; i += 4) {
+                const h = 5 + Math.sin(i * 0.1 + t * 5) * 3;
+                monitorCtx.fillRect(i, monitorCanvas.height - h, 3, h);
+            }
+        }
+
+        animate();
+
+        window.addEventListener('resize', () => {
+            camera.aspect = window.innerWidth / window.innerHeight;
+            camera.updateProjectionMatrix();
+            renderer.setSize(window.innerWidth, window.innerHeight);
+        });
+
+    </script>
+</body>
+</html>
