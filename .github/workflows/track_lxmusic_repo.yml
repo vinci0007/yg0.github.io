@@ -55,7 +55,7 @@ jobs:
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
     
-    - name: Update wzh15802/lxmusic commit reference and API info
+    - name: Update wzh15802/lxmusic commit reference and changes log
       if: steps.check_updates.outputs.has_changes == 'true'
       run: |
         cd main-repo
@@ -68,17 +68,17 @@ jobs:
         
         # 更新变更日志
         cat > entertainment/lxmusic-api/CHANGES_LOG.md << 'EOF'
-# wzh15802/lxmusic Repository Changes Log
+          # wzh15802/lxmusic Repository Changes Log
 
-## Latest Update
-- **Latest Commit**: ${{ steps.check_updates.outputs.latest_commit }}
-- **Commit Message**: ${{ steps.check_updates.outputs.commit_message }}
-- **Update Date**: ${{ steps.check_updates.outputs.update_date }}
-- **Tracked Date**: $(date -u +'%Y-%m-%d %H:%M:%S UTC')
+          ## Latest Update
+          - **Latest Commit**: ${{ steps.check_updates.outputs.latest_commit }}
+          - **Commit Message**: ${{ steps.check_updates.outputs.commit_message }}
+          - **Update Date**: ${{ steps.check_updates.outputs.update_date }}
+          - **Tracked Date**: $(date -u +'%Y-%m-%d %H:%M:%S UTC')
 
-## Notes
-This file tracks changes in the wzh15802/lxmusic repository.
-EOF
+          ## Notes
+          This file tracks changes in the wzh15802/lxmusic repository.
+          EOF
         git add entertainment/lxmusic-api/CHANGES_LOG.md
         
         # 提交更改
@@ -96,61 +96,61 @@ EOF
         
         # 更新API文档
         cat > entertainment/lxmusic-api/README.md << 'EOF'
-# wzh15802/lxmusic API Documentation
+          # wzh15802/lxmusic API Documentation
 
-This directory contains documentation and information about the wzh15802/lxmusic API that our application uses.
+          This directory contains documentation and information about the wzh15802/lxmusic API that our application uses.
 
-## API Endpoints
+          ## API Endpoints
 
-The following endpoints are available in wzh15802/lxmusic desktop application when the Open API feature is enabled:
+          The following endpoints are available in wzh15802/lxmusic desktop application when the Open API feature is enabled:
 
-### Get Player Status
-- **Endpoint**: `/status`
-- **Method**: GET
-- **Description**: Returns the current player status
-- **Response**: JSON object with status, name, singer, albumName, duration, progress, etc.
+          ### Get Player Status
+          - **Endpoint**: `/status`
+          - **Method**: GET
+          - **Description**: Returns the current player status
+          - **Response**: JSON object with status, name, singer, albumName, duration, progress, etc.
 
-### Get Current Lyrics
-- **Endpoint**: `/lyric`
-- **Method**: GET
-- **Description**: Returns the current LRC lyrics as text
+          ### Get Current Lyrics
+          - **Endpoint**: `/lyric`
+          - **Method**: GET
+          - **Description**: Returns the current LRC lyrics as text
 
-### Get All Lyrics Types
-- **Endpoint**: `/lyric-all`
-- **Method**: GET
-- **Description**: Returns all types of lyrics (original, translation, romanization)
+          ### Get All Lyrics Types
+          - **Endpoint**: `/lyric-all`
+          - **Method**: GET
+          - **Description**: Returns all types of lyrics (original, translation, romanization)
 
-### Player Control Endpoints
-- **Play**: `/play` (POST)
-- **Pause**: `/pause` (POST)
-- **Next Track**: `/skip-next` (POST)
-- **Previous Track**: `/skip-prev` (POST)
-- **Seek Position**: `/seek` (POST) with offset parameter
-- **Volume Control**: `/volume` (POST) with volume parameter (1-100)
-- **Mute Control**: `/mute` (POST) with mute parameter (true/false)
+          ### Player Control Endpoints
+          - **Play**: `/play` (POST)
+          - **Pause**: `/pause` (POST)
+          - **Next Track**: `/skip-next` (POST)
+          - **Previous Track**: `/skip-prev` (POST)
+          - **Seek Position**: `/seek` (POST) with offset parameter
+          - **Volume Control**: `/volume` (POST) with volume parameter (1-100)
+          - **Mute Control**: `/mute` (POST) with mute parameter (true/false)
 
-### Player Status Subscription (SSE)
-- **Endpoint**: `/subscribe-player-status`
-- **Method**: GET
-- **Description**: Server-Sent Events stream for real-time status updates
+          ### Player Status Subscription (SSE)
+          - **Endpoint**: `/subscribe-player-status`
+          - **Method**: GET
+          - **Description**: Server-Sent Events stream for real-time status updates
 
-## Default API URL
-- **Default URL**: http://127.0.0.1:23330
+          ## Default API URL
+          - **Default URL**: http://127.0.0.1:23330
 
-## How to Enable
-To use these APIs, you need to enable the Open API feature in wzh15802/lxmusic desktop application:
-1. Open wzh15802/lxmusic desktop application
-2. Go to Settings
-3. Enable "Open API" feature
-4. Note the API port (default is 23330)
+          ## How to Enable
+          To use these APIs, you need to enable the Open API feature in wzh15802/lxmusic desktop application:
+          1. Open wzh15802/lxmusic desktop application
+          2. Go to Settings
+          3. Enable "Open API" feature
+          4. Note the API port (default is 23330)
 
-## Usage in Our Application
-Our application uses these endpoints to:
-- Get current playing track information
-- Control playback (play, pause, next, previous)
-- Get audio spectrum data for visualization (if available)
-- Subscribe to real-time player status updates
-EOF
+          ## Usage in Our Application
+          Our application uses these endpoints to:
+          - Get current playing track information
+          - Control playback (play, pause, next, previous)
+          - Get audio spectrum data for visualization (if available)
+          - Subscribe to real-time player status updates
+          EOF
         git add entertainment/lxmusic-api/README.md
         
         # 提交所有更改
