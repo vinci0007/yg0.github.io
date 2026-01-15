@@ -58,3 +58,9 @@ venv.bak/
 .env.test.local
 .env.production.local
 images/failessssss.png
+feeds/backup_feeds/track_lxmusic_repo - 副本.yml
+feeds/backup_feeds/update-focus - 副本.yml
+feeds/backup_feeds/update-huggingface - 副本.yml
+feeds/backup_feeds/update-huggingface-papers - 副本.yml
+feeds/backup_feeds/update-realtime-focus - 副本.yml
+feeds/backup_feeds/update-trending - 副本.yml

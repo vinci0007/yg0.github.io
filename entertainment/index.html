@@ -23,6 +23,7 @@
                 <div class="track-name" id="track-name">NO DATA</div>
             </div>
         </header>
+        <a href="../index.html" class="back-button glass-panel">← 返回首页</a>
 
         <!-- BOTTOM ROW -->
         <footer class="footer">
@@ -180,7 +181,7 @@
             lxMusicToggle.style.cssText = `
                 position: fixed !important;
                 top: 20px !important;
-                left: 20px !important;
+                left: 30px !important;
                 z-index: 1000 !important;
                 display: flex !important;
                 pointer-events: auto !important;
@@ -190,7 +191,7 @@
             document.body.appendChild(lxMusicToggle);
             
             console.log('LX Music toggle button created and added to DOM');
-            
+
             // Ensure playlist toggle button is visible
             const playlistToggle = document.getElementById('playlist-toggle');
             if (playlistToggle) {
@@ -222,14 +223,52 @@
                 if (isOpen) {
                     container.style.display = 'none';
                     document.body.classList.remove('lx-music-open');
+                    
+                    // Show the LX button again when closing the panel
+                    lxMusicToggle.style.display = 'flex';
                 } else {
                     container.style.display = 'block';
                     document.body.classList.add('lx-music-open');
+                    
+                    // Hide the LX button when opening the panel
+                    lxMusicToggle.style.display = 'none';
                 }
             });
             
             // Start the 3D scene animation
             threeDScene.animate();
+            
+            // Close LX Music panel and playlist when clicking outside
+            document.addEventListener('click', (e) => {
+                const lxContainer = document.querySelector('.lx-music-container');
+                const isLXContainerVisible = lxContainer && lxContainer.style.display === 'block';
+                
+                const playlistContainer = document.getElementById('playlist-container');
+                const isPlaylistContainerVisible = playlistContainer && playlistContainer.style.display === 'block';
+                
+                // Check if LX Music panel is open and clicked outside of it
+                if (isLXContainerVisible && 
+                    !lxContainer.contains(e.target) && 
+                    e.target !== document.querySelector('.lx-music-toggle')) {
+                    
+                    lxContainer.style.display = 'none';
+                    document.body.classList.remove('lx-music-open'); // Remove the class to restore layout
+                    
+                    // Show the LX button again when closing the panel
+                    const lxMusicToggle = document.querySelector('.lx-music-toggle');
+                    if (lxMusicToggle) {
+                        lxMusicToggle.style.display = 'flex';
+                    }
+                }
+                
+                // Check if Playlist panel is open and clicked outside of it
+                if (isPlaylistContainerVisible && 
+                    !playlistContainer.contains(e.target) && 
+                    e.target !== document.getElementById('playlist-toggle')) {
+                    
+                    playlistContainer.style.display = 'none';
+                }
+            });
             
             // Debug: Check if buttons are visible after a short delay
             setTimeout(() => {
