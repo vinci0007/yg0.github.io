@@ -1,40 +1,40 @@
-# ×Ô¶¯»¯Êı¾İ¸üĞÂ½Å±¾
+# Asstar è‡ªåŠ¨åŒ–æ•°æ®æ›´æ–°è„šæœ¬
 
-ÕâÊÇ ÏîÄ¿µÄÍ³Ò»Êı¾İÅÀÈ¡Èë¿Ú¡£
+è¿™æ˜¯ Asstar é¡¹ç›®çš„ç»Ÿä¸€æ•°æ®çˆ¬å–å…¥å£ã€‚
 
-## ¿ìËÙ¿ªÊ¼
+## å¿«é€Ÿå¼€å§‹
 
-ËùÓĞµÄÅÀ³æ¹¦ÄÜ¶¼ÒÑÕûºÏµ½ `fetch_all.py` ÖĞ¡£
+æ‰€æœ‰çš„çˆ¬è™«åŠŸèƒ½éƒ½å·²æ•´åˆåˆ° `fetch_all.py` ä¸­ã€‚
 
-### °²×°ÒÀÀµ
+### å®‰è£…ä¾èµ–
 ```bash
 pip install -r scripts/requirements.txt
 ```
 
-### Ê¹ÓÃ·½·¨
+### ä½¿ç”¨æ–¹æ³•
 ```bash
-# ¸üĞÂËùÓĞÊı¾İ (GitHub, HuggingFace Models, HuggingFace Papers, Tophub/Focus)
+# æ›´æ–°æ‰€æœ‰æ•°æ® (GitHub, HuggingFace Models, HuggingFace Papers, Tophub/Focus)
 python scripts/fetch_all.py all
 
-# ½ö¸üĞÂ GitHub Trending
+# ä»…æ›´æ–° GitHub Trending
 python scripts/fetch_all.py github
 
-# ½ö¸üĞÂ HuggingFace Models
+# ä»…æ›´æ–° HuggingFace Models
 python scripts/fetch_all.py huggingface
 
-# ½ö¸üĞÂ HuggingFace Papers
+# ä»…æ›´æ–° HuggingFace Papers
 python scripts/fetch_all.py papers
 
-# ½ö¸üĞÂ ÊµÊ±½¹µã (Tophub)
+# ä»…æ›´æ–° å®æ—¶ç„¦ç‚¹ (Tophub)
 python scripts/fetch_all.py focus
 ```
 
-## Êä³öÎÄ¼ş
-½Å±¾»á½«½á¹û±£´æµ½ÏîÄ¿¸ùÄ¿Â¼ÏÂµÄ `feeds/` ÎÄ¼ş¼ĞÖĞ£º
+## è¾“å‡ºæ–‡ä»¶
+è„šæœ¬ä¼šå°†ç»“æœä¿å­˜åˆ°é¡¹ç›®æ ¹ç›®å½•ä¸‹çš„ `feeds/` æ–‡ä»¶å¤¹ä¸­ï¼š
 - `feeds/trending-data.json`
 - `feeds/huggingface-data.json`
 - `feeds/huggingface-papers-data.json`
 - `feeds/realtime-focus.json`
 
 ## GitHub Actions
-±¾ÏîÄ¿ÅäÖÃÁË GitHub Actions ×Ô¶¯¸üĞÂ¡£ÅäÖÃÎÄ¼şÎ»ÓÚ `.github/workflows/update-feeds.yml`£¬Ã¿Ìì»á×Ô¶¯ÔËĞĞÁ½´Î¡£
+æœ¬é¡¹ç›®é…ç½®äº† GitHub Actions è‡ªåŠ¨æ›´æ–°ã€‚é…ç½®æ–‡ä»¶ä½äº `.github/workflows/update-feeds.yml`ï¼Œæ¯å¤©ä¼šè‡ªåŠ¨è¿è¡Œä¸¤æ¬¡ã€‚
