@@ -1,42 +1,28 @@
 {
   "daily": [
     {
-      "name": "Blaizzy /mlx-audio",
-      "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
-      "language": "Python",
-      "stars": "5,198",
-      "forks": "383",
-      "starsToday": "1,233",
-      "url": "https://github.com/Blaizzy/mlx-audio",
+      "name": "badlogic /pi-mono",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "language": "TypeScript",
+      "stars": "2,606",
+      "forks": "330",
+      "starsToday": "194",
+      "url": "https://github.com/badlogic/pi-mono",
       "builtBy": [
-        "@Blaizzy",
-        "@lucasnewman",
-        "@rudrankriyam",
-        "@beshkenadze",
-        "@ivanfioravanti"
-      ]
-    },
-    {
-      "name": "VectifyAI /PageIndex",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "language": "Python",
-      "stars": "9,898",
-      "forks": "720",
-      "starsToday": "726",
-      "url": "https://github.com/VectifyAI/PageIndex",
-      "builtBy": [
-        "@rejojer",
-        "@zmtomorrow",
-        "@clarenceluo78"
+        "@badlogic",
+        "@hjanuschka",
+        "@markusylisiurunen",
+        "@nicobailon",
+        "@aliou"
       ]
     },
     {
       "name": "supermemoryai /supermemory",
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
-      "stars": "15,214",
-      "forks": "1,575",
-      "starsToday": "420",
+      "stars": "15,466",
+      "forks": "1,587",
+      "starsToday": "433",
       "url": "https://github.com/supermemoryai/supermemory",
       "builtBy": [
         "@Dhravya",
@@ -47,80 +33,67 @@
       ]
     },
     {
-      "name": "block /goose",
-      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "language": "Rust",
-      "stars": "29,240",
-      "forks": "2,630",
-      "starsToday": "332",
-      "url": "https://github.com/block/goose",
-      "builtBy": [
-        "@angiejones",
-        "@blackgirlbytes",
-        "@dianed-square",
-        "@EbonyLouis",
-        "@michaelneale"
-      ]
-    },
-    {
-      "name": "remotion-dev /remotion",
-      "description": "🎥 Make videos programmatically with React",
-      "language": "TypeScript",
-      "stars": "32,274",
-      "forks": "1,939",
-      "starsToday": "1,374",
-      "url": "https://github.com/remotion-dev/remotion",
-      "builtBy": [
-        "@JonnyBurger",
-        "@patsalv",
-        "@UmungoBungo",
-        "@samohovets",
-        "@alexfernandez803"
-      ]
-    },
-    {
-      "name": "AI4Finance-Foundation /FinRobot",
-      "description": "FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀",
-      "language": "Jupyter Notebook",
-      "stars": "5,821",
-      "forks": "978",
-      "starsToday": "68",
-      "url": "https://github.com/AI4Finance-Foundation/FinRobot",
-      "builtBy": [
-        "@BruceYanghy",
-        "@Noir97",
-        "@PinqiaoWang",
-        "@yilinwu123",
-        "@Athe-kunal"
-      ]
-    },
-    {
-      "name": "k4yt3x /video2x",
-      "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
-      "language": "C++",
-      "stars": "18,164",
-      "forks": "1,612",
-      "starsToday": "468",
-      "url": "https://github.com/k4yt3x/video2x",
-      "builtBy": [
-        "@k4yt3x",
-        "@BrianPetkovsek",
-        "@sat3ll",
-        "@Integral-Tech",
-        "@snixon"
-      ]
-    },
-    {
-      "name": "business-science /ai-data-science-team",
-      "description": "An AI-powered data science team of agents to help you perform common data science tasks 10X faster.",
+      "name": "Blaizzy /mlx-audio",
+      "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
       "language": "Python",
-      "stars": "4,319",
-      "forks": "775",
-      "starsToday": "80",
-      "url": "https://github.com/business-science/ai-data-science-team",
+      "stars": "5,375",
+      "forks": "391",
+      "starsToday": "457",
+      "url": "https://github.com/Blaizzy/mlx-audio",
       "builtBy": [
-        "@mdancho84",
-        "@Ehsaan08-ai"
+        "@Blaizzy",
+        "@lucasnewman",
+        "@rudrankriyam",
+        "@beshkenadze",
+        "@ivanfioravanti"
+      ]
+    },
+    {
+      "name": "Free-TV /IPTV",
+      "description": "M3U Playlist for free TV channels",
+      "language": "Python",
+      "stars": "12,431",
+      "forks": "1,874",
+      "starsToday": "295",
+      "url": "https://github.com/Free-TV/IPTV",
+      "builtBy": [
+        "@KAMI911",
+        "@freetv332",
+        "@NezbednikSK",
+        "@TVKaista",
+        "@infid0"
+      ]
+    },
+    {
+      "name": "hashicorp /vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": "34,018",
+      "forks": "4,521",
+      "starsToday": "13",
+      "url": "https://github.com/hashicorp/vault",
+      "builtBy": [
+        "@jefferai",
+        "@vishalnayak",
+        "@hc-github-team-secure-vault-core",
+        "@armon",
+        "@ncabatoff"
+      ]
+    },
+    {
+      "name": "Shubhamsaboo /awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "language": "Python",
+      "stars": "90,033",
+      "forks": "13,003",
+      "starsToday": "386",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "builtBy": [
+        "@Shubhamsaboo",
+        "@Madhuvod",
+        "@libw0430",
+        "@AndrewHoh",
+        "@ArkVex"
       ]
     }
   ],
@@ -129,8 +102,8 @@
       "name": "remotion-dev /remotion",
       "description": "🎥 Make videos programmatically with React",
       "language": "TypeScript",
-      "stars": "32,274",
-      "forks": "1,939",
+      "stars": "32,760",
+      "forks": "1,965",
       "starsToday": "6,069",
       "url": "https://github.com/remotion-dev/remotion",
       "builtBy": [
@@ -142,11 +115,25 @@
       ]
     },
     {
+      "name": "VectifyAI /PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "language": "Python",
+      "stars": "10,082",
+      "forks": "738",
+      "starsToday": "3,973",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "builtBy": [
+        "@rejojer",
+        "@zmtomorrow",
+        "@clarenceluo78"
+      ]
+    },
+    {
       "name": "iOfficeAI /AionUi",
-      "description": "Cowork + Clawebot for Gemini CLI, Claude Code, Codex, OpenCode, and more | 🌟 Star if you like it!",
+      "description": "Free, local, open-source 24/7 Cowork and Clawdbot for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
-      "stars": "11,115",
-      "forks": "845",
+      "stars": "11,299",
+      "forks": "857",
       "starsToday": "4,571",
       "url": "https://github.com/iOfficeAI/AionUi",
       "builtBy": [
@@ -158,41 +145,11 @@
       ]
     },
     {
-      "name": "VectifyAI /PageIndex",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "language": "Python",
-      "stars": "9,898",
-      "forks": "720",
-      "starsToday": "3,973",
-      "url": "https://github.com/VectifyAI/PageIndex",
-      "builtBy": [
-        "@rejojer",
-        "@zmtomorrow",
-        "@clarenceluo78"
-      ]
-    },
-    {
-      "name": "obra /superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars": "37,280",
-      "forks": "2,857",
-      "starsToday": "7,391",
-      "url": "https://github.com/obra/superpowers",
-      "builtBy": [
-        "@obra",
-        "@claude",
-        "@jjshanks",
-        "@oribarilan",
-        "@vmotta8"
-      ]
-    },
-    {
       "name": "block /goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
-      "stars": "29,240",
-      "forks": "2,630",
+      "stars": "29,348",
+      "forks": "2,641",
       "starsToday": "2,902",
       "url": "https://github.com/block/goose",
       "builtBy": [
@@ -204,11 +161,27 @@
       ]
     },
     {
+      "name": "obra /superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": "37,871",
+      "forks": "2,891",
+      "starsToday": "7,391",
+      "url": "https://github.com/obra/superpowers",
+      "builtBy": [
+        "@obra",
+        "@claude",
+        "@jjshanks",
+        "@oribarilan",
+        "@vmotta8"
+      ]
+    },
+    {
       "name": "anthropics /skills",
       "description": "Public repository for Agent Skills",
       "language": "Python",
-      "stars": "54,652",
-      "forks": "5,335",
+      "stars": "55,562",
+      "forks": "5,417",
       "starsToday": "8,586",
       "url": "https://github.com/anthropics/skills",
       "builtBy": [
@@ -225,8 +198,8 @@
       "name": "anomalyco /opencode",
       "description": "The open source coding agent.",
       "language": "TypeScript",
-      "stars": "89,163",
-      "forks": "8,159",
+      "stars": "89,946",
+      "forks": "8,260",
       "starsToday": "46,388",
       "url": "https://github.com/anomalyco/opencode",
       "builtBy": [
@@ -234,15 +207,15 @@
         "@adamdotdevin",
         "@rekram1-node",
         "@actions-user",
-        "@jayair"
+        "@iamdavidhill"
       ]
     },
     {
       "name": "obra /superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": "37,280",
-      "forks": "2,857",
+      "stars": "37,871",
+      "forks": "2,891",
       "starsToday": "24,933",
       "url": "https://github.com/obra/superpowers",
       "builtBy": [
@@ -254,27 +227,11 @@
       ]
     },
     {
-      "name": "BloopAI /vibe-kanban",
-      "description": "Get 10X more out of Claude Code, Codex or any coding agent",
-      "language": "Rust",
-      "stars": "19,274",
-      "forks": "1,795",
-      "starsToday": "12,487",
-      "url": "https://github.com/BloopAI/vibe-kanban",
-      "builtBy": [
-        "@stunningpixels",
-        "@abcpro1",
-        "@LSRCT",
-        "@ggordonhall",
-        "@actions-user"
-      ]
-    },
-    {
       "name": "anthropics /skills",
       "description": "Public repository for Agent Skills",
       "language": "Python",
-      "stars": "54,652",
-      "forks": "5,335",
+      "stars": "55,562",
+      "forks": "5,417",
       "starsToday": "26,634",
       "url": "https://github.com/anthropics/skills",
       "builtBy": [
@@ -286,11 +243,27 @@
       ]
     },
     {
+      "name": "BloopAI /vibe-kanban",
+      "description": "Get 10X more out of Claude Code, Codex or any coding agent",
+      "language": "Rust",
+      "stars": "19,389",
+      "forks": "1,805",
+      "starsToday": "12,487",
+      "url": "https://github.com/BloopAI/vibe-kanban",
+      "builtBy": [
+        "@stunningpixels",
+        "@abcpro1",
+        "@LSRCT",
+        "@ggordonhall",
+        "@actions-user"
+      ]
+    },
+    {
       "name": "anthropics /claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Shell",
-      "stars": "61,084",
-      "forks": "4,553",
+      "stars": "61,374",
+      "forks": "4,583",
       "starsToday": "12,407",
       "url": "https://github.com/anthropics/claude-code",
       "builtBy": [
@@ -305,8 +278,8 @@
       "name": "shareAI-lab /learn-claude-code",
       "description": "Bash is all you need！write a claude code with only 16 line code",
       "language": "Python",
-      "stars": "15,413",
-      "forks": "3,437",
+      "stars": "15,503",
+      "forks": "3,450",
       "starsToday": "3,655",
       "url": "https://github.com/shareAI-lab/learn-claude-code",
       "builtBy": [
@@ -317,27 +290,11 @@
       ]
     },
     {
-      "name": "bytedance /UI-TARS-desktop",
-      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-      "language": "TypeScript",
-      "stars": "24,875",
-      "forks": "2,403",
-      "starsToday": "4,802",
-      "url": "https://github.com/bytedance/UI-TARS-desktop",
-      "builtBy": [
-        "@ulivz",
-        "@ycjcl868",
-        "@ZhaoHeh",
-        "@cjraft",
-        "@skychx"
-      ]
-    },
-    {
       "name": "usememos /memos",
       "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
       "language": "Go",
-      "stars": "55,835",
-      "forks": "4,006",
+      "stars": "55,927",
+      "forks": "4,012",
       "starsToday": "8,480",
       "url": "https://github.com/usememos/memos",
       "builtBy": [
@@ -349,11 +306,43 @@
       ]
     },
     {
+      "name": "remotion-dev /remotion",
+      "description": "🎥 Make videos programmatically with React",
+      "language": "TypeScript",
+      "stars": "32,760",
+      "forks": "1,965",
+      "starsToday": "6,485",
+      "url": "https://github.com/remotion-dev/remotion",
+      "builtBy": [
+        "@JonnyBurger",
+        "@patsalv",
+        "@UmungoBungo",
+        "@samohovets",
+        "@alexfernandez803"
+      ]
+    },
+    {
+      "name": "bytedance /UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "stars": "24,909",
+      "forks": "2,406",
+      "starsToday": "4,802",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "builtBy": [
+        "@ulivz",
+        "@ycjcl868",
+        "@ZhaoHeh",
+        "@cjraft",
+        "@skychx"
+      ]
+    },
+    {
       "name": "steveyegge /beads",
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
-      "stars": "13,026",
-      "forks": "783",
+      "stars": "13,155",
+      "forks": "786",
       "starsToday": "6,567",
       "url": "https://github.com/steveyegge/beads",
       "builtBy": [
@@ -368,8 +357,8 @@
       "name": "Lissy93 /web-check",
       "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
       "language": "TypeScript",
-      "stars": "31,153",
-      "forks": "2,438",
+      "stars": "31,198",
+      "forks": "2,440",
       "starsToday": "4,068",
       "url": "https://github.com/Lissy93/web-check",
       "builtBy": [
@@ -384,8 +373,8 @@
       "name": "ComposioHQ /awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
-      "stars": "26,460",
-      "forks": "2,583",
+      "stars": "26,836",
+      "forks": "2,604",
       "starsToday": "15,013",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "builtBy": [
@@ -397,27 +386,25 @@
       ]
     },
     {
-      "name": "remotion-dev /remotion",
-      "description": "🎥 Make videos programmatically with React",
-      "language": "TypeScript",
-      "stars": "32,274",
-      "forks": "1,939",
-      "starsToday": "6,485",
-      "url": "https://github.com/remotion-dev/remotion",
+      "name": "VectifyAI /PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "language": "Python",
+      "stars": "10,082",
+      "forks": "738",
+      "starsToday": "5,253",
+      "url": "https://github.com/VectifyAI/PageIndex",
       "builtBy": [
-        "@JonnyBurger",
-        "@patsalv",
-        "@UmungoBungo",
-        "@samohovets",
-        "@alexfernandez803"
+        "@rejojer",
+        "@zmtomorrow",
+        "@clarenceluo78"
       ]
     },
     {
       "name": "virattt /dexter",
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
-      "stars": "9,060",
-      "forks": "1,105",
+      "stars": "9,123",
+      "forks": "1,110",
       "starsToday": "4,721",
       "url": "https://github.com/virattt/dexter",
       "builtBy": [
@@ -429,6 +416,6 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-27T05:52:10.974433",
-  "totalRepositories": 27
+  "lastUpdated": "2026-01-27T18:41:30.342804",
+  "totalRepositories": 26
 }
