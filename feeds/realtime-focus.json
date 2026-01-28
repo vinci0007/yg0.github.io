@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-01-27T18:41:46.435170",
+  "savedAt": "2026-01-28T01:24:30.429745",
   "categories": {
     "finance": {
       "sourceUrl": "https://tophub.today/c/finance",
@@ -22,45 +22,45 @@
               },
               {
                 "rank": "3",
+                "title": "晚间公告｜1月26日这些公告有看头",
+                "extra": "",
+                "url": "https://www.yicai.com/news/103024214.html"
+              },
+              {
+                "rank": "4",
                 "title": "加拿大总理卡尼达沃斯重磅演讲：旧秩序已死，中等国家要抱团抵御胁迫",
                 "extra": "",
                 "url": "https://www.yicai.com/news/103016957.html"
               },
               {
-                "rank": "4",
+                "rank": "5",
+                "title": "公司与行业0126丨春晚催化能否点燃科技股新行情？",
+                "extra": "",
+                "url": "https://www.yicai.com/news/103024303.html"
+              },
+              {
+                "rank": "6",
                 "title": "晚间公告｜1月22日这些公告有看头",
                 "extra": "",
                 "url": "https://www.yicai.com/news/103019581.html"
               },
               {
-                "rank": "5",
+                "rank": "7",
                 "title": "晚间公告｜1月21日这些公告有看头",
                 "extra": "",
                 "url": "https://www.yicai.com/news/103017530.html"
               },
               {
-                "rank": "6",
+                "rank": "8",
                 "title": "晚间公告｜1月25日这些公告有看头",
                 "extra": "",
                 "url": "https://www.yicai.com/news/103022681.html"
               },
               {
-                "rank": "7",
+                "rank": "9",
                 "title": "晚间公告｜1月23日这些公告有看头",
                 "extra": "",
                 "url": "https://www.yicai.com/news/103021616.html"
-              },
-              {
-                "rank": "8",
-                "title": "晚间公告｜1月20日这些公告有看头",
-                "extra": "",
-                "url": "https://www.yicai.com/news/103015334.html"
-              },
-              {
-                "rank": "9",
-                "title": "“两个汇源”正面对垒！汇源重整真的黄了吗？",
-                "extra": "",
-                "url": "https://www.yicai.com/news/103018713.html"
               },
               {
                 "rank": "10",
@@ -140,9 +140,9 @@
             "items": [
               {
                 "rank": "1",
-                "title": "直播丨2025年国民经济运行情况新闻发布会+第一时间解读",
+                "title": "跨界连麦丨黄金突破5100美元！普通人还能上车吗？",
                 "extra": "",
-                "url": "https://www.yicai.com/live/103008014.html"
+                "url": "https://www.yicai.com/live/103024694.html"
               },
               {
                 "rank": "2",
@@ -152,15 +152,15 @@
               },
               {
                 "rank": "3",
-                "title": "直播丨银华基金2026年度投资策略会：资产配置专场",
+                "title": "直播丨2025年国民经济运行情况新闻发布会+第一时间解读",
                 "extra": "",
-                "url": "https://www.yicai.com/live/103010849.html"
+                "url": "https://www.yicai.com/live/103008014.html"
               },
               {
                 "rank": "4",
-                "title": "2026冬季达沃斯｜国际货币基金组织（IMF）总裁、欧洲央行行长等分享全球经济展望",
+                "title": "直播丨银华基金2026年度投资策略会：资产配置专场",
                 "extra": "",
-                "url": "https://www.yicai.com/live/103008171.html"
+                "url": "https://www.yicai.com/live/103010849.html"
               },
               {
                 "rank": "5",
@@ -170,21 +170,21 @@
               },
               {
                 "rank": "6",
-                "title": "一线发布丨国家发展改革委介绍落实中央经济工作会议精神，推动“十五五”实现良好开局有关情况",
+                "title": "2026冬季达沃斯｜国际货币基金组织（IMF）总裁、欧洲央行行长等分享全球经济展望",
                 "extra": "",
-                "url": "https://www.yicai.com/live/103013652.html"
+                "url": "https://www.yicai.com/live/103008171.html"
               },
               {
                 "rank": "7",
-                "title": "一线发布丨工业和信息化部介绍2025年工业和信息化发展成效",
-                "extra": "",
-                "url": "https://www.yicai.com/live/103015214.html"
-              },
-              {
-                "rank": "8",
                 "title": "直播丨见证历史！黄金突破5000美元",
                 "extra": "",
                 "url": "https://www.yicai.com/live/103022913.html"
+              },
+              {
+                "rank": "8",
+                "title": "一线发布丨工业和信息化部介绍2025年工业和信息化发展成效",
+                "extra": "",
+                "url": "https://www.yicai.com/live/103015214.html"
               },
               {
                 "rank": "9",
@@ -194,9 +194,9 @@
               },
               {
                 "rank": "10",
-                "title": "一线发布丨财政部介绍发挥积极财政政策作用，推动经济社会高质量发展有关情况",
+                "title": "一线发布丨农业农村部介绍加快农业农村现代化，扎实推进乡村全面振兴有关情况",
                 "extra": "",
-                "url": "https://www.yicai.com/live/103013655.html"
+                "url": "https://www.yicai.com/live/103017386.html"
               }
             ]
           },
@@ -211,9 +211,9 @@
               },
               {
                 "rank": "2",
-                "title": "【5.7折】2025白皮书+2024增长力白皮书+2023增长力白皮书+2023营销报告",
+                "title": "【火热预售5.7折】2025中国消费品牌智能创新白皮书",
                 "extra": "2025中国消费品牌智能创新大调查",
-                "url": "https://cbndata.com/report/3342/detail"
+                "url": "https://cbndata.com/report/3337/detail"
               },
               {
                 "rank": "3",
@@ -229,9 +229,9 @@
               },
               {
                 "rank": "5",
-                "title": "【6.3折】2025中国消费品牌智能创新白皮书+2024中国消费品牌增长力白皮书+2023营销报告",
+                "title": "【4.1折】大全套：2025白皮书+2024白皮书+2023全套+2022全套",
                 "extra": "2025中国消费品牌智能创新大调查",
-                "url": "https://cbndata.com/report/3341/detail"
+                "url": "https://cbndata.com/report/3343/detail"
               },
               {
                 "rank": "6",
@@ -241,21 +241,21 @@
               },
               {
                 "rank": "7",
-                "title": "【7折】三年套餐：2025中国消费品牌智能创新白皮书+2024增长力白皮书+2023增长力白皮书",
+                "title": "【5.7折】2025白皮书+2024增长力白皮书+2023增长力白皮书+2023营销报告",
                 "extra": "2025中国消费品牌智能创新大调查",
-                "url": "https://cbndata.com/report/3339/detail"
+                "url": "https://cbndata.com/report/3342/detail"
               },
               {
                 "rank": "8",
-                "title": "【4.1折】大全套：2025白皮书+2024白皮书+2023全套+2022全套",
+                "title": "【6.3折】2025中国消费品牌智能创新白皮书+2024中国消费品牌增长力白皮书+2023营销报告",
                 "extra": "2025中国消费品牌智能创新大调查",
-                "url": "https://cbndata.com/report/3343/detail"
+                "url": "https://cbndata.com/report/3341/detail"
               },
               {
                 "rank": "9",
-                "title": "【火热预售5.7折】2025中国消费品牌智能创新白皮书",
+                "title": "【7折】三年套餐：2025中国消费品牌智能创新白皮书+2024增长力白皮书+2023增长力白皮书",
                 "extra": "2025中国消费品牌智能创新大调查",
-                "url": "https://cbndata.com/report/3337/detail"
+                "url": "https://cbndata.com/report/3339/detail"
               },
               {
                 "rank": "10",
@@ -399,63 +399,63 @@
             "items": [
               {
                 "rank": "1",
-                "title": "华尔街见闻早餐FM-Radio | 2026年1月27日",
-                "extra": "14.5万",
-                "url": "https://wallstreetcn.com/articles/3764207"
-              },
-              {
-                "rank": "2",
-                "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
-                "extra": "11.4万",
-                "url": "https://wallstreetcn.com/articles/3764111"
-              },
-              {
-                "rank": "3",
-                "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
-                "extra": "10.6万",
-                "url": "https://wallstreetcn.com/articles/3764206"
-              },
-              {
-                "rank": "4",
-                "title": "Clawdbot引爆整个AI agent生态",
-                "extra": "9.0万",
-                "url": "https://wallstreetcn.com/articles/3764269"
-              },
-              {
-                "rank": "5",
-                "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
-                "extra": "8.9万",
-                "url": "https://wallstreetcn.com/articles/3764241"
-              },
-              {
-                "rank": "6",
-                "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
-                "extra": "7.8万",
+                "title": "科技巨头财报前标普五连阳，美元重挫创四年新低，黄金又新高，原油拉升，期银跳水",
+                "extra": "16.8万",
                 "url": "https://wallstreetcn.com/articles/3764253"
               },
               {
-                "rank": "7",
-                "title": "白银盘中狂飙超10%，黄金涨破5100美元、创四十年最大月涨，全球动荡驱动避险潮",
+                "rank": "2",
+                "title": "Clawdbot引爆整个AI agent生态",
+                "extra": "10.8万",
+                "url": "https://wallstreetcn.com/articles/3764269"
+              },
+              {
+                "rank": "3",
+                "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
+                "extra": "9.7万",
+                "url": "https://wallstreetcn.com/articles/3764241"
+              },
+              {
+                "rank": "4",
+                "title": "华尔街见闻早餐FM-Radio | 2026年1月28日",
+                "extra": "9.5万",
+                "url": "https://wallstreetcn.com/articles/3764300"
+              },
+              {
+                "rank": "5",
+                "title": "商品传奇Rick Rule：看到了史诗级的油气股投资机会，相较实物白银更看好银矿股",
+                "extra": "6.6万",
+                "url": "https://wallstreetcn.com/articles/3764260"
+              },
+              {
+                "rank": "6",
+                "title": "金属和内存涨价“双杀”！瑞银：电动车企利润将完全被吞噬",
                 "extra": "6.4万",
-                "url": "https://wallstreetcn.com/articles/3764173"
+                "url": "https://wallstreetcn.com/articles/3764233"
+              },
+              {
+                "rank": "7",
+                "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
+                "extra": "6.0万",
+                "url": "https://wallstreetcn.com/articles/3764292"
               },
               {
                 "rank": "8",
-                "title": "金属和内存涨价“双杀”！瑞银：电动车企利润将完全被吞噬",
-                "extra": "5.9万",
-                "url": "https://wallstreetcn.com/articles/3764233"
+                "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
+                "extra": "5.8万",
+                "url": "https://wallstreetcn.com/articles/3764255"
               },
               {
                 "rank": "9",
                 "title": "“最大客户”都让步了！韩媒称三星、海力士一季度向苹果供DRAM价格较上季度翻倍",
-                "extra": "5.1万",
+                "extra": "5.3万",
                 "url": "https://wallstreetcn.com/articles/3764243"
               },
               {
                 "rank": "10",
-                "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
+                "title": "A股午后拉升，三大股指集体收涨，算力产业链爆发，恒指涨超1%，紫金黄金涨超11%，沪银逆势涨7%",
                 "extra": "5.1万",
-                "url": "https://wallstreetcn.com/articles/3764255"
+                "url": "https://wallstreetcn.com/articles/3764225"
               }
             ]
           },
@@ -464,141 +464,147 @@
             "items": [
               {
                 "rank": "1",
-                "title": "LVMH集团四季度时装与皮草有机销售下降3%，分析师预期下降2.94%。\n四季度营收227.2亿欧元，分析师预期225.9亿欧元",
+                "title": "希捷科技电话会：“都卖完了！”CEO称客户更关心供货而非价格，订单已谈到2027年",
                 "extra": "",
-                "url": "https://wallstreetcn.com/articles/3764296"
+                "url": "https://wallstreetcn.com/articles/3764309"
               },
               {
                 "rank": "2",
-                "title": "日本财务大臣：如有必要，将与美协调汇率行动，日元短线走高",
+                "title": "报道：供应链消息称，苹果之后，英伟达下一代GPU也将合作英特尔，以取悦特朗普",
                 "extra": "",
-                "url": "https://wallstreetcn.com/articles/3764291"
+                "url": "https://wallstreetcn.com/articles/3764313"
               },
               {
                 "rank": "3",
-                "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
-                "extra": "",
-                "url": "https://wallstreetcn.com/articles/3764292"
+                "title": "OpenAI凌晨放大招，免费Prism颠覆科研！从摘要到致谢，GPT-5.2包圆",
+                "extra": "新智元",
+                "url": "https://wallstreetcn.com/articles/3764308"
               },
               {
                 "rank": "4",
-                "title": "爆火的Clawdbot：AI Agent开源先锋，产业需求如何重构？",
+                "title": "美元创去年4月关税风波以来最大跌幅！交易员看更多贬值",
                 "extra": "",
-                "url": "https://wallstreetcn.com/member/articles/3764232"
+                "url": "https://wallstreetcn.com/articles/3764307"
               },
               {
                 "rank": "5",
-                "title": "安踏收购PUMA：一次非典型全球化落子",
-                "extra": "",
-                "url": "https://wallstreetcn.com/articles/3764293"
-              },
-              {
-                "rank": "6",
                 "title": "中国AI独角兽的进阶之路",
                 "extra": "",
                 "url": "https://wallstreetcn.com/themes/1008381"
               },
               {
+                "rank": "6",
+                "title": "AI驱动数据中心需求强劲！存储巨头希捷Q2营收增21.5%，营业利润率创历史新高，Q3收入指引超预期，股价盘后涨约9%",
+                "extra": "赵雨荷、董静",
+                "url": "https://wallstreetcn.com/articles/3764304"
+              },
+              {
                 "rank": "7",
-                "title": "AI算力Token涨价潮：云厂商服务调价，Agent需求爆发",
+                "title": "美国政府面临月底关门，“最后时刻”能否抢救？ICE成焦点",
                 "extra": "",
-                "url": "https://wallstreetcn.com/member/articles/3764138"
+                "url": "https://wallstreetcn.com/articles/3764311"
               },
               {
                 "rank": "8",
-                "title": "英特尔，“重返”DRAM？",
-                "extra": "半导体行业观察",
-                "url": "https://wallstreetcn.com/articles/3764289"
+                "title": "众泰的复活赛，还是一幕保壳剧本？",
+                "extra": "",
+                "url": "https://wallstreetcn.com/articles/3764272"
               },
               {
                 "rank": "9",
-                "title": "Clawdbot + Mac mini：当 AI 助手跑在本地",
-                "extra": "贝叶斯之美",
-                "url": "https://wallstreetcn.com/articles/3764288"
-              },
-              {
-                "rank": "10",
-                "title": "实测腾讯“元宝派”，与“元宝”同群深聊：性格有点“欠”，动嘴就能斗图",
-                "extra": "腾讯科技",
-                "url": "https://wallstreetcn.com/articles/3764287"
-              },
-              {
-                "rank": "11",
-                "title": "万科两笔合计57亿元中票展期议案获通过，大股东深铁再提供23.6亿元借款",
-                "extra": "澎湃新闻",
-                "url": "https://wallstreetcn.com/articles/3764290"
-              },
-              {
-                "rank": "12",
                 "title": "“高市冲击”下，日债遭遇抛售风暴，收益率迈入“4时代”",
                 "extra": "",
                 "url": "https://wallstreetcn.com/themes/1008386"
               },
               {
-                "rank": "13",
-                "title": "雷声大雨点小！特朗普关税威胁仅四分之一落地，超四成被撤回",
+                "rank": "10",
+                "title": "特朗普，两天内动手？",
+                "extra": "中国新闻周刊",
+                "url": "https://wallstreetcn.com/articles/3764306"
+              },
+              {
+                "rank": "11",
+                "title": "华尔街见闻早餐FM-Radio | 2026年1月28日",
                 "extra": "",
-                "url": "https://wallstreetcn.com/articles/3764281"
+                "url": "https://wallstreetcn.com/articles/3764300"
+              },
+              {
+                "rank": "12",
+                "title": "“新美联储通讯社”：美联储1月料暂停降息，何时再降不明朗，沃勒投票成看点",
+                "extra": "何浩",
+                "url": "https://wallstreetcn.com/articles/3764305"
+              },
+              {
+                "rank": "13",
+                "title": "科技巨头财报前标普五连阳，美元重挫创四年新低，黄金又新高，原油拉升，期银跳水",
+                "extra": "李丹、李佳",
+                "url": "https://wallstreetcn.com/articles/3764253"
               },
               {
                 "rank": "14",
-                "title": "平安继续扫货同业，增持国寿H股能否直逼10%",
-                "extra": "",
-                "url": "https://wallstreetcn.com/articles/3764286"
-              },
-              {
-                "rank": "15",
-                "title": "康宁美股盘前飙升超7%！报道：Meta拟豪掷60亿美元订购光纤，发力AI数据中心",
-                "extra": "",
-                "url": "https://wallstreetcn.com/articles/3764285"
-              },
-              {
-                "rank": "16",
-                "title": "波音Q4营收同比大增57%，全年交付量为2018年最高，资产出售提振，调整后EPS创十余年新高| 财报见闻",
-                "extra": "",
-                "url": "https://wallstreetcn.com/articles/3764282"
-              },
-              {
-                "rank": "17",
-                "title": "AI会计会是下一个“杀手级”应用吗？",
-                "extra": "",
-                "url": "https://wallstreetcn.com/articles/3764284"
-              },
-              {
-                "rank": "18",
                 "title": "中美商业航天竞争加速",
                 "extra": "",
                 "url": "https://wallstreetcn.com/themes/1008384"
               },
               {
-                "rank": "19",
-                "title": "电力超级周期爆发，真正的机会不在发电端？",
+                "rank": "15",
+                "title": "1月28日会员早报：印欧签署贸易大单 美国消费者信心指数暴跌",
+                "extra": "见闻VIP",
+                "url": "https://wallstreetcn.com/member/articles/3764303"
+              },
+              {
+                "rank": "16",
+                "title": "美得州州长叫停州政府机构和公立大学新H-1B申请，不影响私营部门",
+                "extra": "何浩",
+                "url": "https://wallstreetcn.com/articles/3764302"
+              },
+              {
+                "rank": "17",
+                "title": "美国将在中东举行空军战备演习，油价盘中涨3%，现货黄金涨超2%",
+                "extra": "何浩",
+                "url": "https://wallstreetcn.com/articles/3764301"
+              },
+              {
+                "rank": "18",
+                "title": "LVMH Q4核心业务软奢超预期下滑3%，关税威胁下酒类利润全年锐减25%，股价“闪跌”丨财报见闻",
                 "extra": "",
-                "url": "https://wallstreetcn.com/articles/3764276"
+                "url": "https://wallstreetcn.com/articles/3764296"
+              },
+              {
+                "rank": "19",
+                "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
+                "extra": "",
+                "url": "https://wallstreetcn.com/articles/3764299"
               },
               {
                 "rank": "20",
-                "title": "商品传奇Rick Rule：看到了史诗级的油气股投资机会，相较实物白银更看好银矿股",
+                "title": "特朗普企图吞并格陵兰，欧美激烈交锋！",
                 "extra": "",
-                "url": "https://wallstreetcn.com/articles/3764260"
+                "url": "https://wallstreetcn.com/themes/1008385"
               },
               {
                 "rank": "21",
-                "title": "干预信号来了？纽约联储“利率检查”点燃日元，147-149成新关注区间",
+                "title": "为什么是明州！？为什么又要政府关门！？",
                 "extra": "",
-                "url": "https://wallstreetcn.com/articles/3764278"
+                "url": "https://wallstreetcn.com/member/articles/3764297"
               },
               {
                 "rank": "22",
-                "title": "申万宏源2025年业绩预告：净利润上限破百亿元大关",
-                "extra": "资事堂·崔峻阳",
-                "url": "https://wallstreetcn.com/articles/3764280"
+                "title": "Anthropic将融资200亿美元、为初始目标2倍，估值3500亿美元",
+                "extra": "何浩",
+                "url": "https://wallstreetcn.com/articles/3764298"
               },
               {
                 "rank": "23",
-                "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
-                "extra": "每日经济新闻",
-                "url": "https://wallstreetcn.com/articles/3764257"
+                "title": "估值逻辑失灵？特斯拉盈利前景暴跌56%，目标价却调升至410美元",
+                "extra": "",
+                "url": "https://wallstreetcn.com/articles/3764295"
+              },
+              {
+                "rank": "24",
+                "title": "康宁涨超19%，创2004年以来盘中新高！报道：Meta拟豪掷60亿美元订购光纤，发力AI数据中心",
+                "extra": "叶慧雯、李佳",
+                "url": "https://wallstreetcn.com/articles/3764285"
               }
             ]
           }
@@ -609,171 +615,141 @@
             "items": [
               {
                 "rank": "1",
-                "title": "李蓓清仓黄金，整理了她近几年观点",
-                "extra": "3897",
-                "url": "https://www.jisilu.cn/question/517985"
-              },
-              {
-                "rank": "2",
                 "title": "开个贴讨论下跨境etf套利的问题",
-                "extra": "614",
+                "extra": "694",
                 "url": "https://www.jisilu.cn/question/518009"
               },
               {
-                "rank": "3",
+                "rank": "2",
                 "title": "今天GJD应大概率不会操作",
-                "extra": "2748",
+                "extra": "2816",
                 "url": "https://www.jisilu.cn/question/517990"
               },
               {
-                "rank": "4",
-                "title": "2026-1-27 可转债 减仓",
-                "extra": "1616",
-                "url": "https://www.jisilu.cn/question/517983"
-              },
-              {
-                "rank": "5",
-                "title": "博士眼镜投资逻辑",
-                "extra": "424",
-                "url": "https://www.jisilu.cn/question/518001"
-              },
-              {
-                "rank": "6",
-                "title": "平准基金的货好象还很多，历史上的平准基金怎么退出的？",
-                "extra": "934",
-                "url": "https://www.jisilu.cn/question/518005"
-              },
-              {
-                "rank": "7",
-                "title": "今天有多少人减仓了？觉得是牛市洗盘还是高位震荡出货又或者板块轮动？",
-                "extra": "808",
-                "url": "https://www.jisilu.cn/question/518002"
-              },
-              {
-                "rank": "8",
-                "title": "蓝帆转债下修转股价至8.5元",
-                "extra": "1352",
-                "url": "https://www.jisilu.cn/question/517987"
-              },
-              {
-                "rank": "9",
-                "title": "蓝帆为啥要下修呢？",
-                "extra": "613",
-                "url": "https://www.jisilu.cn/question/518010"
-              },
-              {
-                "rank": "10",
-                "title": "金属变天了？",
-                "extra": "1881",
-                "url": "https://www.jisilu.cn/question/517982"
-              },
-              {
-                "rank": "11",
-                "title": "首华转债再次触发满足强赎回提示公告",
-                "extra": "260",
-                "url": "https://www.jisilu.cn/question/517999"
-              },
-              {
-                "rank": "12",
-                "title": "鸣鸣很忙卖飞（超预期）",
-                "extra": "1002",
-                "url": "https://www.jisilu.cn/question/518007"
-              },
-              {
-                "rank": "13",
-                "title": "有愿意编程的集友吗？想搞个期现套利提醒程序，有偿",
-                "extra": "341",
-                "url": "https://www.jisilu.cn/question/517991"
-              },
-              {
-                "rank": "14",
+                "rank": "3",
                 "title": "记一次失败的跨境ETF套利",
-                "extra": "277",
+                "extra": "717",
                 "url": "https://www.jisilu.cn/question/518004"
               },
               {
-                "rank": "15",
-                "title": "2026年1月28日投资提示：维尔利预计2025年亏损3.5亿至2.5亿",
-                "extra": "850",
-                "url": "https://www.jisilu.cn/question/518016"
+                "rank": "4",
+                "title": "博士眼镜投资逻辑",
+                "extra": "928",
+                "url": "https://www.jisilu.cn/question/518001"
               },
               {
-                "rank": "16",
-                "title": "有几万块南方原油，是不是没啥办法吃这份溢价？",
-                "extra": "484",
-                "url": "https://www.jisilu.cn/question/517993"
+                "rank": "5",
+                "title": "平准基金的货好象还很多，历史上的平准基金怎么退出的？",
+                "extra": "1091",
+                "url": "https://www.jisilu.cn/question/518005"
               },
               {
-                "rank": "17",
+                "rank": "6",
+                "title": "今天有多少人减仓了？觉得是牛市洗盘还是高位震荡出货又或者板块轮动？",
+                "extra": "854",
+                "url": "https://www.jisilu.cn/question/518002"
+              },
+              {
+                "rank": "7",
+                "title": "蓝帆为啥要下修呢？",
+                "extra": "652",
+                "url": "https://www.jisilu.cn/question/518010"
+              },
+              {
+                "rank": "8",
+                "title": "首华转债再次触发满足强赎回提示公告",
+                "extra": "332",
+                "url": "https://www.jisilu.cn/question/517999"
+              },
+              {
+                "rank": "9",
                 "title": "今天162719石油LOF为什么没人上车呢",
-                "extra": "353",
+                "extra": "1130",
                 "url": "https://www.jisilu.cn/question/518023"
               },
               {
-                "rank": "18",
-                "title": "有色太猛了",
-                "extra": "515",
-                "url": "https://www.jisilu.cn/question/517981"
+                "rank": "10",
+                "title": "鸣鸣很忙卖飞（超预期）",
+                "extra": "1120",
+                "url": "https://www.jisilu.cn/question/518007"
               },
               {
-                "rank": "19",
-                "title": "comex黄金开盘基准价有误吧？",
-                "extra": "355",
-                "url": "https://www.jisilu.cn/question/517996"
+                "rank": "11",
+                "title": "有愿意编程的集友吗？想搞个期现套利提醒程序，有偿",
+                "extra": "484",
+                "url": "https://www.jisilu.cn/question/517991"
               },
               {
-                "rank": "20",
-                "title": "关于死亡和得失的思考",
-                "extra": "215",
-                "url": "https://www.jisilu.cn/question/518020"
+                "rank": "12",
+                "title": "2026年1月28日投资提示：维尔利预计2025年亏损3.5亿至2.5亿",
+                "extra": "1393",
+                "url": "https://www.jisilu.cn/question/518016"
               },
               {
-                "rank": "21",
-                "title": "追踪热点，快进快出",
-                "extra": "208",
-                "url": "https://www.jisilu.cn/question/518022"
-              },
-              {
-                "rank": "22",
-                "title": "转债好久没有中签了",
-                "extra": "51",
-                "url": "https://www.jisilu.cn/question/518000"
-              },
-              {
-                "rank": "23",
+                "rank": "13",
                 "title": "利群转债怎么样？",
-                "extra": "158",
+                "extra": "328",
                 "url": "https://www.jisilu.cn/question/518021"
               },
               {
-                "rank": "24",
+                "rank": "14",
+                "title": "有几万块南方原油，是不是没啥办法吃这份溢价？",
+                "extra": "659",
+                "url": "https://www.jisilu.cn/question/517993"
+              },
+              {
+                "rank": "15",
+                "title": "追踪热点，快进快出",
+                "extra": "359",
+                "url": "https://www.jisilu.cn/question/518022"
+              },
+              {
+                "rank": "16",
+                "title": "comex黄金开盘基准价有误吧？",
+                "extra": "369",
+                "url": "https://www.jisilu.cn/question/517996"
+              },
+              {
+                "rank": "17",
+                "title": "转债好久没有中签了",
+                "extra": "61",
+                "url": "https://www.jisilu.cn/question/518000"
+              },
+              {
+                "rank": "18",
                 "title": "钼要上天了",
-                "extra": "128",
+                "extra": "144",
                 "url": "https://www.jisilu.cn/question/517994"
               },
               {
-                "rank": "25",
+                "rank": "19",
                 "title": "各位大佬，今天买进了3个ETF，求打气",
-                "extra": "219",
+                "extra": "251",
                 "url": "https://www.jisilu.cn/question/517995"
               },
               {
-                "rank": "26",
+                "rank": "20",
                 "title": "震荡一下起到风险教育的作用",
-                "extra": "117",
+                "extra": "164",
                 "url": "https://www.jisilu.cn/question/518018"
               },
               {
-                "rank": "27",
+                "rank": "21",
+                "title": "主力持续出货暗藏玄机？",
+                "extra": "71",
+                "url": "https://www.jisilu.cn/question/518014"
+              },
+              {
+                "rank": "22",
                 "title": "期权实盘迷你仓第143天",
-                "extra": "52",
+                "extra": "62",
                 "url": "https://www.jisilu.cn/question/518003"
               },
               {
-                "rank": "28",
-                "title": "主力持续出货暗藏玄机？",
-                "extra": "49",
-                "url": "https://www.jisilu.cn/question/518014"
+                "rank": "23",
+                "title": "白银期货大幅贴水",
+                "extra": "84",
+                "url": "https://www.jisilu.cn/question/518024"
               }
             ]
           }
@@ -784,147 +760,147 @@
             "items": [
               {
                 "rank": "",
-                "title": "李强签署国务院令 公布修订后的《中华人民共和国药品管理法实施条例》",
+                "title": "利好突袭！马斯克重大宣布！欧盟也有大动作！事关商业航天",
                 "extra": "",
-                "url": "https://finance.eastmoney.com/a/202601273632257991.html"
+                "url": "https://finance.eastmoney.com/a/202601283632721542.html"
               },
               {
                 "rank": "",
-                "title": "英国首相斯塔默将访华 中方介绍有关安排及期待",
+                "title": "国产大模型接连“上新” 这些超跌概念股获机构关注(名单)",
                 "extra": "",
-                "url": "https://finance.eastmoney.com/a/202601273632129543.html"
+                "url": "https://finance.eastmoney.com/a/202601283632831964.html"
               },
               {
                 "rank": "",
-                "title": "国家疾控局等多部门印发《疾病预防控制领域强基实施方案》",
+                "title": "段永平谈茅台：当前股价“真的不贵”",
                 "extra": "",
-                "url": "https://finance.eastmoney.com/a/202601273632125379.html"
+                "url": "https://finance.eastmoney.com/a/202601283632932364.html"
               },
               {
                 "rank": "",
-                "title": "美股三大指数走势分化 标普创盘中历史新高 光通信板块普涨 康宁涨超16%",
+                "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
                 "extra": "",
-                "url": "https://finance.eastmoney.com/a/202601273632560617.html"
+                "url": "https://finance.eastmoney.com/a/202601283633063584.html"
               },
               {
                 "rank": "",
-                "title": "存储疯狂！苹果也扛不住 “低头”接受一倍涨价 (附表格)",
+                "title": "重要股东出手 这13家公司将获增持（附名单）",
                 "extra": "",
-                "url": "https://finance.eastmoney.com/a/202601273632389890.html"
+                "url": "https://finance.eastmoney.com/a/202601283632824635.html"
               },
               {
                 "rank": "",
-                "title": "国家疾控局：我国尚未发现尼帕病毒病例",
+                "title": "药品管理法实施条例23年来首次全面修订 儿童药罕见病药迎创新激励",
                 "extra": "",
-                "url": "https://finance.eastmoney.com/a/202601273632252051.html"
+                "url": "https://finance.eastmoney.com/a/202601273632603443.html"
               },
               {
                 "rank": "",
-                "title": "1月27日东方财富财经晚报（附新闻联播）",
+                "title": "现货黄金再创新高 首次突破5200美元/盎司",
                 "extra": "",
-                "url": "https://finance.eastmoney.com/a/202601273632448550.html"
+                "url": "https://finance.eastmoney.com/a/202601283633052352.html"
               },
               {
                 "rank": "",
-                "title": "迈向3万亿！养老金投资规模八年扩大近10倍",
+                "title": "东材科技等三家上市公司实控人熊海涛被立案调查！",
                 "extra": "",
-                "url": "https://finance.eastmoney.com/a/202601273632363010.html"
+                "url": "https://finance.eastmoney.com/a/202601283632613176.html"
               },
               {
                 "rank": "",
-                "title": "中微半导发布涨价通知函：涨价幅度15%~50%",
+                "title": "光通信鼻祖康宁斩获Meta大单 股价创近25年新高 CEO称数据中心将成最大客户",
                 "extra": "",
-                "url": "https://finance.eastmoney.com/a/202601273632352487.html"
+                "url": "https://finance.eastmoney.com/a/202601273632607220.html"
               },
               {
                 "rank": "",
-                "title": "“超级周期”！一图看懂各类存储",
+                "title": "开源AI代理火爆出圈 “互联网门神”Cloudflare沾光连续两日大涨",
                 "extra": "",
-                "url": "https://finance.eastmoney.com/a/202601273632320358.html"
+                "url": "https://finance.eastmoney.com/a/202601283632637125.html"
               },
               {
                 "rank": "",
-                "title": "1月27日晚间沪深上市公司重大事项公告最新快递",
+                "title": "尼帕病毒“扰动” 相关板块大涨 多家公司回应",
                 "extra": "",
-                "url": "https://finance.eastmoney.com/a/202601273632399120.html"
+                "url": "https://finance.eastmoney.com/a/202601273632573514.html"
               },
               {
                 "rank": "",
-                "title": "易方达黄金主题LOF：明起暂停A类份额申购",
+                "title": "证券时报刊文：破除股神幻象 还资本市场清朗",
                 "extra": "",
-                "url": "https://finance.eastmoney.com/a/202601273632273768.html"
+                "url": "https://finance.eastmoney.com/a/202601283632652337.html"
               },
               {
                 "rank": "",
-                "title": "万科“22万科MTN004”展期议案获通过 债券本金六成展期一年",
+                "title": "今年产能已售罄！数据中心需求大涨 希捷科技季度营收同比增22%",
                 "extra": "",
-                "url": "https://finance.eastmoney.com/a/202601273632448340.html"
+                "url": "https://finance.eastmoney.com/a/202601283633001129.html"
               },
               {
                 "rank": "",
-                "title": "机构调研丨存储芯片+半导体+国产芯片 这家公司今日20cm涨停 所涉存储产品均在价格上涨通道",
+                "title": "【投资日历】1月28日资本市场大事：国投白银LOF今起暂停申购业务",
                 "extra": "",
-                "url": "https://finance.eastmoney.com/a/202601273632158794.html"
+                "url": "https://finance.eastmoney.com/a/202601283632809322.html"
               },
               {
                 "rank": "",
-                "title": "上期所再度出手 18名客户被限制开仓、限制出金",
+                "title": "一边撒币一边建群！春节AI红包大战背后的野心：大厂暗战流量新入口",
                 "extra": "",
-                "url": "https://finance.eastmoney.com/a/202601273632199472.html"
+                "url": "https://finance.eastmoney.com/a/202601283632929191.html"
               },
               {
                 "rank": "",
-                "title": "沐曦股份：预计2025年净亏损6.50亿元-7.98亿元",
+                "title": "美国又一条“斩杀线”！冬季风暴肆虐 10人死于街头！电费狂飙1400% 最多超80万用户停电",
                 "extra": "",
-                "url": "https://finance.eastmoney.com/a/202601273632365340.html"
+                "url": "https://finance.eastmoney.com/a/202601283632929928.html"
               },
               {
                 "rank": "",
-                "title": "英伟达重金加注！“易中天”携手大涨 融资客百亿元抢筹多只概念股",
+                "title": "东方财富财经早餐 1月28日周三",
                 "extra": "",
-                "url": "https://finance.eastmoney.com/a/202601273631965443.html"
+                "url": "https://finance.eastmoney.com/a/202601273632614330.html"
               },
               {
                 "rank": "",
-                "title": "CPO概念回暖 结构性机会如何拿捏",
+                "title": "1月28日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
                 "extra": "",
-                "url": "https://finance.eastmoney.com/a/202601273632334263.html"
+                "url": "https://finance.eastmoney.com/a/202601283632691586.html"
               },
               {
                 "rank": "",
-                "title": "欧盟正式启动各成员国政府卫星通信计划",
+                "title": "伊朗出手 监控石油“咽喉”通道！伊立巨幅画暗指美航母被炸：配文“煽风者将得到风暴”！",
                 "extra": "",
-                "url": "https://finance.eastmoney.com/a/202601273632320070.html"
+                "url": "https://finance.eastmoney.com/a/202601283632883965.html"
               },
               {
                 "rank": "",
-                "title": "DeepSeek重大发布！国产AI大模型再度掀起热潮",
+                "title": "退出纠纷频发 如何让网约车司机进退更自如？",
                 "extra": "",
-                "url": "https://finance.eastmoney.com/a/202601273632532471.html"
+                "url": "https://finance.eastmoney.com/a/202601283632928356.html"
               },
               {
                 "rank": "",
-                "title": "突然集体大爆发！“大飞机”迎来重磅驱动！",
+                "title": "乌外长：泽连斯基愿与普京会面 以解决领土等敏感问题！特朗普政府向基辅释放这一信号",
                 "extra": "",
-                "url": "https://finance.eastmoney.com/a/202601273632170516.html"
+                "url": "https://finance.eastmoney.com/a/202601283632894996.html"
               },
               {
                 "rank": "",
-                "title": "A股深V反转！盘中这一细节 提示大资金可能要“收手”了？",
+                "title": "特斯拉品牌价值三连跌 马斯克介入政治拖累公司声誉",
                 "extra": "",
-                "url": "https://finance.eastmoney.com/a/202601273632178070.html"
+                "url": "https://finance.eastmoney.com/a/202601283632689093.html"
               },
               {
                 "rank": "",
-                "title": "商务部新闻发言人就中英经贸合作情况答记者问",
+                "title": "疯狂的白银：不到一个月暴涨超60% 产业链“有人欢喜有人忧”",
                 "extra": "",
-                "url": "https://finance.eastmoney.com/a/202601273632160326.html"
+                "url": "https://finance.eastmoney.com/a/202601273632588617.html"
               },
               {
                 "rank": "",
-                "title": "存储芯片走强！龙头20CM涨停 涨价周期持续到2027年？",
+                "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
                 "extra": "",
-                "url": "https://finance.eastmoney.com/a/202601273631969397.html"
+                "url": "https://finance.eastmoney.com/a/202601283632930887.html"
               }
             ]
           }
@@ -940,51 +916,51 @@
             "items": [
               {
                 "rank": "1",
-                "title": "8点1氪丨958g坚果礼盒仅33g坚果，百草味客服回应；49条中日航线取消全部航班；肯德基外卖涨价，堂食价格维持不变",
-                "extra": "",
-                "url": "https://www.36kr.com/p/3656915993337986"
-              },
-              {
-                "rank": "2",
                 "title": "Clawdbot爆火，我看到了腾讯元宝的通天路",
                 "extra": "",
                 "url": "https://www.36kr.com/p/3657099142951424"
               },
               {
-                "rank": "3",
-                "title": "春节大战重燃：10亿红包只是诱饵，四家大厂争抢AI时代「新船票」？",
-                "extra": "",
-                "url": "https://www.36kr.com/p/3656323486200326"
-              },
-              {
-                "rank": "4",
+                "rank": "2",
                 "title": "万达电影发布2025年业绩预告，预计全年盈利4.8亿至5.5亿元",
                 "extra": "",
                 "url": "https://www.36kr.com/p/3657563456381827"
               },
               {
-                "rank": "5",
-                "title": "年收入飙涨10倍，一家医疗公司接住了AGI",
+                "rank": "3",
+                "title": "8点1氪丨大批中成药将退出市场；汽车行业利润率降至历史最低；妙可蓝多回应“罢免”创始人",
                 "extra": "",
-                "url": "https://www.36kr.com/p/3647401456078465"
+                "url": "https://www.36kr.com/p/3658332721030022"
               },
               {
-                "rank": "6",
-                "title": "「迄今为止最伟大的 AI 应用」的 Clawdbot，或许并不适合你",
-                "extra": "",
-                "url": "https://www.36kr.com/p/3656205703242115"
-              },
-              {
-                "rank": "7",
+                "rank": "4",
                 "title": "马化腾内部员工大会，都讲了啥？",
                 "extra": "",
                 "url": "https://www.36kr.com/p/3656960062136713"
               },
               {
-                "rank": "8",
+                "rank": "5",
                 "title": "憋了4个月，阿里最大最强模型正式版发布，附一手实测",
                 "extra": "",
                 "url": "https://www.36kr.com/p/3657074925609352"
+              },
+              {
+                "rank": "6",
+                "title": "洗浴中心，正在洗劫星级酒店",
+                "extra": "",
+                "url": "https://www.36kr.com/p/3656994309726594"
+              },
+              {
+                "rank": "7",
+                "title": "肯德基再涨价，餐饮集体告别“9块9时代”",
+                "extra": "",
+                "url": "https://www.36kr.com/p/3656992960012679"
+              },
+              {
+                "rank": "8",
+                "title": "Lululemon让人走光，是故意的还是不小心？",
+                "extra": "",
+                "url": "https://www.36kr.com/p/3657014675927552"
               }
             ]
           },
@@ -993,183 +969,183 @@
             "items": [
               {
                 "rank": "1",
-                "title": "热门中概股美股盘前多数上涨，哔哩哔哩涨超4%",
+                "title": "现货黄金站上5200美元/盎司",
                 "extra": "",
-                "url": "https://36kr.com/newsflashes/3657674076840582?f=rss"
+                "url": "https://36kr.com/newsflashes/3658391981515397?f=rss"
               },
               {
                 "rank": "2",
-                "title": "美股大型科技股盘前普涨，英特尔涨超3%",
+                "title": "中信证券：覆铜板有望持续涨价，看好后续毛利率及业绩弹性",
                 "extra": "",
-                "url": "https://36kr.com/newsflashes/3657669357494912?f=rss"
+                "url": "https://36kr.com/newsflashes/3658389477368710?f=rss"
               },
               {
                 "rank": "3",
-                "title": "波音2025年第四季度营收239.48亿美元，同比增长57%",
+                "title": "中信证券：展望2026年，煤炭行业或将延续供需双弱格局",
                 "extra": "",
-                "url": "https://36kr.com/newsflashes/3657653926503297?f=rss"
+                "url": "https://36kr.com/newsflashes/3658366140670857?f=rss"
               },
               {
                 "rank": "4",
-                "title": "中国黄金：主要从事黄金珠宝首饰研发、加工、零售、批发及回购等，未拥有探矿权、采矿权",
+                "title": "SK keyfoundry推出第四代200V高压0.18微米BCD工艺",
                 "extra": "",
-                "url": "https://36kr.com/newsflashes/3657658985997191?f=rss"
+                "url": "https://36kr.com/newsflashes/3658368755638921?f=rss"
               },
               {
                 "rank": "5",
-                "title": "2连板天奇股份：天奇银河的具身智能机器人相关业务尚处于市场开拓阶段，对公司2025年业绩情况影响较小",
+                "title": "中信证券：2026年春节白酒实际动销有望维持平稳，看好白酒行业底部配置机会",
                 "extra": "",
-                "url": "https://36kr.com/newsflashes/3657637897986950?f=rss"
+                "url": "https://36kr.com/newsflashes/3658369110778756?f=rss"
               },
               {
                 "rank": "6",
-                "title": "赛微电子：预计2025年度净利润14.14亿元-15.04亿元",
+                "title": "两市融资余额减少21.54亿元",
                 "extra": "",
-                "url": "https://36kr.com/newsflashes/3657632222028423?f=rss"
+                "url": "https://36kr.com/newsflashes/3658374295642757?f=rss"
               },
               {
                 "rank": "7",
-                "title": "常山北明：预计2025年净利润3500万元，同比扭亏为盈",
+                "title": "华泰证券：看好户用光储",
                 "extra": "",
-                "url": "https://36kr.com/newsflashes/3657630925448066?f=rss"
+                "url": "https://36kr.com/newsflashes/3658345746129794?f=rss"
               },
               {
                 "rank": "8",
-                "title": "万科A：深铁集团提供不超过23.6亿元借款",
+                "title": "华泰证券：看好各技术路线设备在海外光伏产能大规模建设背景下的发展潜力",
                 "extra": "",
-                "url": "https://36kr.com/newsflashes/3657648608961415?f=rss"
+                "url": "https://36kr.com/newsflashes/3658345390809988?f=rss"
               },
               {
                 "rank": "9",
-                "title": "马斯克：星舰V3版6周后发射 送新一代星链卫星上天",
+                "title": "曹操出行拟配股净筹3.83亿港元，主要用于Robotaxi业务",
                 "extra": "",
-                "url": "https://36kr.com/newsflashes/3657623568524161?f=rss"
+                "url": "https://36kr.com/newsflashes/3658368022454920?f=rss"
               },
               {
                 "rank": "10",
-                "title": "通用汽车：预计2026年调整后每股收益11美元至13美元",
+                "title": "中信建投：商业航天产业发展为卫星通信市场带来增量需求",
                 "extra": "",
-                "url": "https://36kr.com/newsflashes/3657613998154368?f=rss"
+                "url": "https://36kr.com/newsflashes/3658316151890568?f=rss"
               },
               {
                 "rank": "11",
-                "title": "江苏新泉汽车饰件股份有限公司向港交所提交上市申请书",
+                "title": "软银据悉拟向OpenAI追加投资300亿美元",
                 "extra": "",
-                "url": "https://36kr.com/newsflashes/3657613588112261?f=rss"
+                "url": "https://36kr.com/newsflashes/3658365588595334?f=rss"
               },
               {
                 "rank": "12",
-                "title": "嘉事堂：股东筹划控制权变更事项 明起停牌",
+                "title": "机构：预计2026年全球光伏逆变器出货量将持续下滑",
                 "extra": "",
-                "url": "https://36kr.com/newsflashes/3657607423878022?f=rss"
+                "url": "https://36kr.com/newsflashes/3658315444380546?f=rss"
               },
               {
                 "rank": "13",
-                "title": "视觉中国：实控人廖道训、吴玉瑞、柴继军拟合计减持不超1.85%股份",
+                "title": "A股业绩预告潮：超百家公司净利翻倍",
                 "extra": "",
-                "url": "https://36kr.com/newsflashes/3657621364728457?f=rss"
+                "url": "https://36kr.com/newsflashes/3658315043037833?f=rss"
               },
               {
                 "rank": "14",
-                "title": "视觉中国：股东梁军计划减持不超过0.8%公司股份",
+                "title": "银行积极布局信贷开门红，机构预期1月中下旬投放将提速",
                 "extra": "",
-                "url": "https://36kr.com/newsflashes/3657601058497408?f=rss"
+                "url": "https://36kr.com/newsflashes/3658313365447301?f=rss"
               },
               {
                 "rank": "15",
-                "title": "SK海力士回应将在美设立人工智能投资部门：正在考虑多种方案",
+                "title": "多维施策齐发力，房地产政策组合拳释放需求潜力",
                 "extra": "",
-                "url": "https://36kr.com/newsflashes/3657600701604486?f=rss"
+                "url": "https://36kr.com/newsflashes/3658312671388292?f=rss"
               },
               {
                 "rank": "16",
-                "title": "璞泰来：拟2.4亿元收购乳源氟树脂5%股权",
+                "title": "2025年车市陷入“量增利薄”，行业利润率有待修复",
                 "extra": "",
-                "url": "https://36kr.com/newsflashes/3657588478485122?f=rss"
+                "url": "https://36kr.com/newsflashes/3658309506638465?f=rss"
               },
               {
                 "rank": "17",
-                "title": "美国联合包裹服务公司2025年第四季度合并收入为245亿美元",
+                "title": "希捷科技第二财季营收及盈利均超出预期",
                 "extra": "",
-                "url": "https://36kr.com/newsflashes/3657587455173250?f=rss"
+                "url": "https://36kr.com/newsflashes/3658310382166659?f=rss"
               },
               {
                 "rank": "18",
+                "title": "银行个人抵押经营贷利率普遍下探",
+                "extra": "",
+                "url": "https://36kr.com/newsflashes/3658308519076482?f=rss"
+              },
+              {
+                "rank": "19",
+                "title": "多部门协同发力，“反内卷”政策推动市场竞争从“卷价格”向“优价值”转变",
+                "extra": "",
+                "url": "https://36kr.com/newsflashes/3658307890356873?f=rss"
+              },
+              {
+                "rank": "20",
+                "title": "郭明錤：苹果iPhone 18定价策略是“尽可能不涨价”",
+                "extra": "",
+                "url": "https://36kr.com/newsflashes/3658344935842439?f=rss"
+              },
+              {
+                "rank": "21",
+                "title": "8点1氪丨大批中成药将退出市场；汽车行业利润率降至历史最低；妙可蓝多回应“罢免”创始人",
+                "extra": "",
+                "url": "https://36kr.com/p/3658332721030022?f=rss"
+              },
+              {
+                "rank": "22",
                 "title": "溢价60%卖出股权，PUMA凭什么？",
                 "extra": "",
                 "url": "https://36kr.com/p/3657541274575750?f=rss"
               },
               {
-                "rank": "19",
-                "title": "凯普生物：预计2025年净亏损1.20亿元-1.95亿元",
-                "extra": "",
-                "url": "https://36kr.com/newsflashes/3657587858072456?f=rss"
-              },
-              {
-                "rank": "20",
-                "title": "盈新发展：拟5.2亿元收购广东长兴半导体60%股权",
-                "extra": "",
-                "url": "https://36kr.com/newsflashes/3657586716894083?f=rss"
-              },
-              {
-                "rank": "21",
-                "title": "机构今日买入等动力新科20股，卖出中国铀业3.4亿元",
-                "extra": "",
-                "url": "https://36kr.com/newsflashes/3657561995682441?f=rss"
-              },
-              {
-                "rank": "22",
+                "rank": "23",
                 "title": "氪星晚报｜德国军工巨头要为德军打造本土版“星链”；OpenAI首席信息安全官奈特将卸任职务；金饰克价涨至1585元",
                 "extra": "",
                 "url": "https://36kr.com/p/3657497474999172?f=rss"
               },
               {
-                "rank": "23",
+                "rank": "24",
                 "title": "家电消费新主张，要大美好，更要“真智能”｜世研消费指数品牌榜Vol.100",
                 "extra": "",
                 "url": "https://36kr.com/p/3657388456338057?f=rss"
               },
               {
-                "rank": "24",
+                "rank": "25",
                 "title": "上海交大教授创业光量子计算，再获数亿融资，公司估值已近70亿｜36氪独家",
                 "extra": "",
                 "url": "https://36kr.com/p/3656992648650888?f=rss"
               },
               {
-                "rank": "25",
+                "rank": "26",
                 "title": "年收入飙涨10倍，一家医疗公司接住了AGI",
                 "extra": "",
                 "url": "https://36kr.com/p/3647401456078465?f=rss"
               },
               {
-                "rank": "26",
+                "rank": "27",
                 "title": "8点1氪丨958g坚果礼盒仅33g坚果，百草味客服回应；49条中日航线取消全部航班；肯德基外卖涨价，堂食价格维持不变",
                 "extra": "",
                 "url": "https://36kr.com/p/3656915993337986?f=rss"
               },
               {
-                "rank": "27",
+                "rank": "28",
                 "title": "Deepway深向完成11.77亿元Pre-IPO轮融资，加速重卡电动化与智能化｜36氪独家",
                 "extra": "",
                 "url": "https://36kr.com/p/3648965783543429?f=rss"
               },
               {
-                "rank": "28",
+                "rank": "29",
                 "title": "被蚂蚁、移动投资，这家机器人公司说：“2026年交付必有一战”",
                 "extra": "",
                 "url": "https://36kr.com/p/3656238372266121?f=rss"
               },
               {
-                "rank": "29",
+                "rank": "30",
                 "title": "氪星晚报｜爱立信预计2026年继续裁员5000人；马化腾：腾讯唯一花钱投入比较多的就是AI；肯德基外卖涨价，平均上调0.8元",
                 "extra": "",
                 "url": "https://36kr.com/p/3656083905273986?f=rss"
-              },
-              {
-                "rank": "30",
-                "title": "B股，最后的金矿？",
-                "extra": "",
-                "url": "https://36kr.com/p/3656051954966918?f=rss"
               }
             ]
           }
@@ -1305,57 +1281,57 @@
             "items": [
               {
                 "rank": "1",
+                "title": "派早报：森海塞尔发布两款 USB-C 有线耳机等",
+                "extra": "少数派编辑部",
+                "url": "https://sspai.com/post/105830"
+              },
+              {
+                "rank": "2",
                 "title": "社区速递 127 | 派友的 12 月剁手清单、8 年不换电池的温湿度计",
                 "extra": "Matrix机器人",
                 "url": "https://sspai.com/post/105807"
               },
               {
-                "rank": "2",
+                "rank": "3",
                 "title": "软件工程师的 AI Coding 进化论",
                 "extra": "Bestony",
                 "url": "https://sspai.com/post/105584"
               },
               {
-                "rank": "3",
+                "rank": "4",
                 "title": "打开血糖盲盒：跟踪 14 个普通日夜里的血液足迹",
                 "extra": "朝拜Suns",
                 "url": "https://sspai.com/post/105500"
               },
               {
-                "rank": "4",
+                "rank": "5",
                 "title": "派早报：Adobe 系列应用原生支持 Windows on ARM 等",
                 "extra": "少数派编辑部",
                 "url": "https://sspai.com/post/105792"
               },
               {
-                "rank": "5",
+                "rank": "6",
                 "title": "派评 | 近期值得关注的 App",
                 "extra": "少数派编辑部",
                 "url": "https://sspai.com/post/105782"
               },
               {
-                "rank": "6",
+                "rank": "7",
                 "title": "从「墓碑」到见机行事：iOS 后台机制现状分析",
                 "extra": "广陵止息",
                 "url": "https://sspai.com/post/105776"
               },
               {
-                "rank": "7",
+                "rank": "8",
                 "title": "Kindle Paperwhite 3 杂谈：为什么它是我高中生涯最值的电子产品？",
                 "extra": "Haoo_7",
                 "url": "https://sspai.com/post/105685"
               },
               {
-                "rank": "8",
+                "rank": "9",
                 "title": "NAS 自部署 TrendRadar：搭建基于 AI 的热点情报站",
                 "extra": "噩梦飘雷",
                 "url": "https://sspai.com/post/105506"
-              },
-              {
-                "rank": "9",
-                "title": "派早报：高铁客服和专家回应「高铁二氧化碳超标」",
-                "extra": "少数派编辑部",
-                "url": "https://sspai.com/post/105741"
               },
               {
                 "rank": "10",
@@ -1372,75 +1348,75 @@
             "items": [
               {
                 "rank": "1",
-                "title": "近 13 岁“高龄” iPhone 5s 续命，苹果推送 iOS 12.5.8 更新",
-                "extra": "402评",
-                "url": "https://m.ithome.com/html/916683.htm"
+                "title": "百公里加速 4.9 秒？比亚迪“大唐”无伪装实车曝光，D 级旗舰 SUV 唐 9 系",
+                "extra": "236评",
+                "url": "https://m.ithome.com/html/916777.htm"
               },
               {
                 "rank": "2",
-                "title": "百公里加速 4.9 秒？比亚迪“大唐”无伪装实车曝光，D 级旗舰 SUV 唐 9 系",
-                "extra": "228评",
-                "url": "https://m.ithome.com/html/916777.htm"
+                "title": "马化腾回应外卖大战：腾讯高管退出京东与美团董事会后，两家企业打起来了",
+                "extra": "107评",
+                "url": "https://m.ithome.com/html/916929.htm"
               },
               {
                 "rank": "3",
                 "title": "苹果 iPhone 16 Pro 京东叠国补 5199 元新低：A18 Pro 处理器、6.3 英寸 XDR 屏幕",
-                "extra": "153评",
+                "extra": "168评",
                 "url": "https://m.ithome.com/html/916911.htm"
               },
               {
                 "rank": "4",
                 "title": "“刘亦菲”上车：鸿蒙智行智界汽车 ADS 4.1 更新内容首曝，新增专属停车语音、车内外对话等",
-                "extra": "164评",
+                "extra": "173评",
                 "url": "https://m.ithome.com/html/916771.htm"
               },
               {
                 "rank": "5",
-                "title": "马化腾回应外卖大战：腾讯高管退出京东与美团董事会后，两家企业打起来了",
-                "extra": "87评",
-                "url": "https://m.ithome.com/html/916929.htm"
-              },
-              {
-                "rank": "6",
-                "title": "苹果 iOS 26.3 新功能，限制蜂窝网络获取你的精确位置",
-                "extra": "69评",
-                "url": "https://m.ithome.com/html/916665.htm"
-              },
-              {
-                "rank": "7",
-                "title": "消息称三星电子、SK 海力士已与苹果谈判，大幅提高 iPhone 手机所用 LPDDR 内存价格",
-                "extra": "124评",
-                "url": "https://m.ithome.com/html/916862.htm"
-              },
-              {
-                "rank": "8",
                 "title": "Air 补完 17 补：苹果 iPhone 17 京东换新 4699~5469 元，加赠 45W 充电头 / 100 元饭卡",
-                "extra": "79评",
+                "extra": "93评",
                 "url": "https://m.ithome.com/html/916964.htm"
               },
               {
-                "rank": "9",
-                "title": "支付宝“2026 年马年集福”活动开启，早鸟可抢“稀有福卡”",
-                "extra": "70评",
-                "url": "https://m.ithome.com/html/916662.htm"
+                "rank": "6",
+                "title": "消息称三星电子、SK 海力士已与苹果谈判，大幅提高 iPhone 手机所用 LPDDR 内存价格",
+                "extra": "126评",
+                "url": "https://m.ithome.com/html/916862.htm"
               },
               {
-                "rank": "10",
-                "title": "为适配 AirTag 2，苹果同步大规模更新 iOS 12~26 系统",
-                "extra": "41评",
-                "url": "https://m.ithome.com/html/916657.htm"
-              },
-              {
-                "rank": "11",
+                "rank": "7",
                 "title": "小米 REDMI Turbo 5 Max 手机搭载超声波指纹，支持滑动录入",
-                "extra": "159评",
+                "extra": "165评",
                 "url": "https://m.ithome.com/html/916726.htm"
               },
               {
-                "rank": "12",
+                "rank": "8",
+                "title": "消息称苹果今年 9 月预计只上 iPhone 18 Pro 系列和首款阔折叠 iPhone Fold",
+                "extra": "68评",
+                "url": "https://m.ithome.com/html/916961.htm"
+              },
+              {
+                "rank": "9",
                 "title": "苹果 M4 Max 秀肌肉：非原生运行卡普空 3A 游戏《识质存在》狂飙近 100 FPS",
-                "extra": "89评",
+                "extra": "93评",
                 "url": "https://m.ithome.com/html/916773.htm"
+              },
+              {
+                "rank": "10",
+                "title": "消息称存储持续涨价，影响最大的是 2.5K 档中端机",
+                "extra": "121评",
+                "url": "https://m.ithome.com/html/916830.htm"
+              },
+              {
+                "rank": "11",
+                "title": "DeepSeek-OCR 2 发布：让 AI 像人一样“读懂”复杂文档，识别性能提升 3.73%",
+                "extra": "19评",
+                "url": "https://m.ithome.com/html/916812.htm"
+              },
+              {
+                "rank": "12",
+                "title": "7×24h“全职 AI 员工”助攻突破英伟达护城河，推动苹果 Mac Mini 卖爆",
+                "extra": "74评",
+                "url": "https://m.ithome.com/html/916767.htm"
               }
             ]
           }
@@ -2592,121 +2568,121 @@
               {
                 "rank": "1",
                 "title": "别用命换工作：一位32岁程序员周末晕倒后猝死留给我们的生存思考",
-                "extra": "5548",
+                "extra": "5582",
                 "url": "https://juejin.cn/post/7597758250825793546"
               },
               {
                 "rank": "2",
                 "title": "子弈的 2025 年度总结",
-                "extra": "3743",
+                "extra": "3896",
                 "url": "https://juejin.cn/post/7598947628468207662"
               },
               {
                 "rank": "3",
                 "title": "这可能是 Vue 生态最完整的语音智能体组件库",
-                "extra": "3118",
+                "extra": "3138",
                 "url": "https://juejin.cn/post/7598353543892353030"
               },
               {
                 "rank": "4",
                 "title": "Flutter 又迎大坑修改？iOS 26 键盘变化可能带来大量底层改动",
-                "extra": "3876",
+                "extra": "3881",
                 "url": "https://juejin.cn/post/7596245612558319625"
               },
               {
                 "rank": "5",
-                "title": "32岁程序员猝死背后，我的一些真实感受",
-                "extra": "3473",
-                "url": "https://juejin.cn/post/7597701762905309230"
-              },
-              {
-                "rank": "6",
                 "title": "Prompt 不够用了，火爆全网的 Skills 到底是个啥？",
-                "extra": "3674",
+                "extra": "3770",
                 "url": "https://juejin.cn/post/7598353543892828166"
               },
               {
+                "rank": "6",
+                "title": "32岁程序员猝死背后，我的一些真实感受",
+                "extra": "3484",
+                "url": "https://juejin.cn/post/7597701762905309230"
+              },
+              {
                 "rank": "7",
-                "title": "Skills火了，一篇带你看懂来龙去脉",
-                "extra": "3317",
-                "url": "https://juejin.cn/post/7597348590710128680"
+                "title": "AI Skills：前端新的效率神器！",
+                "extra": "3455",
+                "url": "https://juejin.cn/post/7598807837868539930"
               },
               {
                 "rank": "8",
-                "title": "AI Skills：前端新的效率神器！",
-                "extra": "3166",
-                "url": "https://juejin.cn/post/7598807837868539930"
+                "title": "Skills火了，一篇带你看懂来龙去脉",
+                "extra": "3379",
+                "url": "https://juejin.cn/post/7597348590710128680"
               },
               {
                 "rank": "9",
                 "title": "为什么没人走后门当程序员？",
-                "extra": "2746",
+                "extra": "3090",
                 "url": "https://juejin.cn/post/7599581204859715610"
               },
               {
                 "rank": "10",
                 "title": "Android Gradle Plugin 9.0 发布，为什么这会是个史诗级大坑版本",
-                "extra": "2250",
+                "extra": "2259",
                 "url": "https://juejin.cn/post/7597900782910685203"
               },
               {
                 "rank": "11",
-                "title": "高并发下是先写数据库，还是先写缓存？",
-                "extra": "2149",
-                "url": "https://juejin.cn/post/7596975035437809673"
+                "title": "我装了 9 个 Skill，终于看懂了 Google Antigravity 的野心",
+                "extra": "2435",
+                "url": "https://juejin.cn/post/7597083743555387435"
               },
               {
                 "rank": "12",
-                "title": "我装了 9 个 Skill，终于看懂了 Google Antigravity 的野心",
-                "extra": "2409",
-                "url": "https://juejin.cn/post/7597083743555387435"
+                "title": "高并发下是先写数据库，还是先写缓存？",
+                "extra": "2162",
+                "url": "https://juejin.cn/post/7596975035437809673"
               },
               {
                 "rank": "13",
                 "title": "深度复刻小米AI官网交互动画",
-                "extra": "2511",
+                "extra": "2523",
                 "url": "https://juejin.cn/post/7598005428258340927"
               },
               {
                 "rank": "14",
                 "title": "项目经理被裁那天，没人替他说话",
-                "extra": "2360",
+                "extra": "2389",
                 "url": "https://juejin.cn/post/7598174154665623587"
               },
               {
                 "rank": "15",
                 "title": "字节二面挂了！被问 “订单超时自动取消”，我只答 “定时任务”，面试官：千万级数据你怎么跑？",
-                "extra": "2238",
+                "extra": "2260",
                 "url": "https://juejin.cn/post/7597742970281525300"
               },
               {
                 "rank": "16",
-                "title": "Agent Skills在货拉拉AI应用尝试",
-                "extra": "2067",
-                "url": "https://juejin.cn/post/7597776334065516596"
+                "title": "ClawdBot傻瓜式使用方法:手把手教你部署7×24替你用电脑干活的ClawdBot",
+                "extra": "3111",
+                "url": "https://juejin.cn/post/7599483314161860627"
               },
               {
                 "rank": "17",
-                "title": "ClawdBot傻瓜式使用方法:手把手教你部署7×24替你用电脑干活的ClawdBot",
-                "extra": "2613",
-                "url": "https://juejin.cn/post/7599483314161860627"
+                "title": "Agent Skills在货拉拉AI应用尝试",
+                "extra": "2094",
+                "url": "https://juejin.cn/post/7597776334065516596"
               },
               {
                 "rank": "18",
                 "title": "血压飙升，Flutter & Dart 2025 年度巨坑回顾",
-                "extra": "1568",
+                "extra": "1629",
                 "url": "https://juejin.cn/post/7598737609494855699"
               },
               {
                 "rank": "19",
                 "title": "前端指纹技术是如何实现的？（Canvas、Audio、硬件API 核心原理解密）",
-                "extra": "1406",
+                "extra": "1409",
                 "url": "https://juejin.cn/post/7596970073750552612"
               },
               {
                 "rank": "20",
                 "title": "20 个神级 AI 编程扩展，爽爆了！",
-                "extra": "1350",
+                "extra": "1370",
                 "url": "https://juejin.cn/post/7596955804260663346"
               }
             ]
@@ -2717,49 +2693,49 @@
               {
                 "rank": "1",
                 "title": "我装了 9 个 Skill，终于看懂了 Google Antigravity 的野心",
-                "extra": "2409",
+                "extra": "2435",
                 "url": "https://juejin.cn/post/7597083743555387435"
               },
               {
                 "rank": "2",
                 "title": "20 个神级 AI 编程扩展，爽爆了！",
-                "extra": "1350",
+                "extra": "1370",
                 "url": "https://juejin.cn/post/7596955804260663346"
               },
               {
                 "rank": "3",
                 "title": "1 个仓库，243 种 skill，3 分钟部署：一人公司的终极赚钱模式！",
-                "extra": "1233",
+                "extra": "1381",
                 "url": "https://juejin.cn/post/7598574507347050531"
               },
               {
                 "rank": "4",
                 "title": "Claude、Codex、Trae... 都在做：为什么 \"Skill\" 成了 AI 编程工具的标配？",
-                "extra": "771",
+                "extra": "778",
                 "url": "https://juejin.cn/post/7597640029574709299"
               },
               {
                 "rank": "5",
                 "title": "有了MCP，为什么你还需要skills",
-                "extra": "460",
+                "extra": "463",
                 "url": "https://juejin.cn/post/7597266967138746402"
               },
               {
                 "rank": "6",
                 "title": "跨平台开发地图：2025跨平台技术简单总结 | 2026年1月",
-                "extra": "334",
+                "extra": "335",
                 "url": "https://juejin.cn/post/7597642574933508105"
               },
               {
                 "rank": "7",
                 "title": "AI 代码生成越快，Debugging 越贵：2026年最值钱的技能",
-                "extra": "244",
+                "extra": "251",
                 "url": "https://juejin.cn/post/7598116600903139337"
               },
               {
                 "rank": "8",
                 "title": "Git 任务切换血泪指南：从手忙脚乱到勉强拿捏",
-                "extra": "191",
+                "extra": "199",
                 "url": "https://juejin.cn/post/7599017594519601178"
               },
               {
@@ -2771,62 +2747,62 @@
               {
                 "rank": "10",
                 "title": "2026 年你绝对不容错过的 7 款现代化 CLI 工具",
-                "extra": "127",
+                "extra": "128",
                 "url": "https://juejin.cn/post/7599017594519994394"
               },
               {
                 "rank": "11",
                 "title": "Claude Code 入门到 skill",
-                "extra": "161",
+                "extra": "165",
                 "url": "https://juejin.cn/post/7598112768147243014"
               },
               {
                 "rank": "12",
                 "title": "分享Kiro、Claude Code、Open Code、Codex4种Spec范式编程方式",
-                "extra": "180",
+                "extra": "182",
                 "url": "https://juejin.cn/post/7597270795211767848"
               },
               {
                 "rank": "13",
                 "title": "一文读懂 Skills｜从概念到实操的完整指南",
-                "extra": "121",
+                "extra": "124",
                 "url": "https://juejin.cn/post/7599528186586595338"
               },
               {
                 "rank": "14",
                 "title": "Claude Skills 保姆级教程：无脑照做就能用出效果",
-                "extra": "151",
+                "extra": "156",
                 "url": "https://juejin.cn/post/7598588085597437992"
               },
               {
                 "rank": "15",
                 "title": "Trae 官宣：支持Skill！",
-                "extra": "162",
+                "extra": "166",
                 "url": "https://juejin.cn/post/7598023360733052938"
               },
               {
                 "rank": "16",
                 "title": "搭建数据标注：Cvat",
-                "extra": "125",
+                "extra": "129",
                 "url": "https://juejin.cn/post/7597299207573995566"
               },
               {
                 "rank": "17",
-                "title": "Antigravity 隐藏神技 Skills 为什么是“王炸”？因为它让 AI 真正有了“肌肉记忆”。",
-                "extra": "148",
-                "url": "https://juejin.cn/post/7597348590709981224"
+                "title": "Antigravity 配置文件 skills",
+                "extra": "120",
+                "url": "https://juejin.cn/post/7598203055751086115"
               },
               {
                 "rank": "18",
-                "title": "使用Proxifier解决烦人的Tun",
-                "extra": "88",
-                "url": "https://juejin.cn/post/7598947628450119707"
+                "title": "Antigravity 隐藏神技 Skills 为什么是“王炸”？因为它让 AI 真正有了“肌肉记忆”。",
+                "extra": "152",
+                "url": "https://juejin.cn/post/7597348590709981224"
               },
               {
                 "rank": "19",
-                "title": "Antigravity 配置文件 skills",
-                "extra": "119",
-                "url": "https://juejin.cn/post/7598203055751086115"
+                "title": "使用Proxifier解决烦人的Tun",
+                "extra": "89",
+                "url": "https://juejin.cn/post/7598947628450119707"
               },
               {
                 "rank": "20",
