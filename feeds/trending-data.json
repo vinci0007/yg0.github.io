@@ -1,137 +1,28 @@
 {
   "daily": [
     {
-      "name": "alibaba /zvec",
-      "description": "A lightweight, lightning-fast, in-process vector database",
-      "language": "C++",
-      "stars": "3,883",
-      "forks": "211",
-      "starsToday": "1,094",
-      "url": "https://github.com/alibaba/zvec",
-      "builtBy": [
-        "@iaojnh",
-        "@feihongxu0824",
-        "@egolearner",
-        "@Cuiyus",
-        "@zhourrr"
-      ]
-    },
-    {
-      "name": "nautechsystems /nautilus_trader",
-      "description": "A high-performance algorithmic trading platform and event-driven backtester",
-      "language": "Rust",
-      "stars": "19,849",
-      "forks": "2,334",
-      "starsToday": "546",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "builtBy": [
-        "@cjdsellers",
-        "@limx0",
-        "@filipmacek",
-        "@faysou",
-        "@davidsblom"
-      ]
-    },
-    {
-      "name": "rowboatlabs /rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "language": "TypeScript",
-      "stars": "7,411",
-      "forks": "623",
-      "starsToday": "700",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "builtBy": [
-        "@ramnique",
-        "@akhisud3195",
-        "@arkml",
-        "@tusharmagar",
-        "@github-actions"
-      ]
-    },
-    {
-      "name": "steipete /gogcli",
-      "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-      "language": "Go",
-      "stars": "3,607",
-      "forks": "305",
-      "starsToday": "637",
-      "url": "https://github.com/steipete/gogcli",
-      "builtBy": [
-        "@steipete",
-        "@salmonumbrella",
-        "@claude",
-        "@jeanregisser",
-        "@antons"
-      ]
-    },
-    {
-      "name": "openclaw /openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "language": "TypeScript",
-      "stars": "202,461",
-      "forks": "36,453",
-      "starsToday": "3,873",
-      "url": "https://github.com/openclaw/openclaw",
-      "builtBy": [
-        "@steipete",
-        "@vignesh07",
-        "@thewilloftheshadow",
-        "@gumadeiras",
-        "@claude"
-      ]
-    },
-    {
-      "name": "SynkraAI /aios-core",
-      "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-      "language": "JavaScript",
-      "stars": "1,029",
-      "forks": "364",
-      "starsToday": "205",
-      "url": "https://github.com/SynkraAI/aios-core",
-      "builtBy": [
-        "@claude",
-        "@Pedrovaleriolopez",
-        "@oalanicolas",
-        "@github-actions",
-        "@semantic-release-bot"
-      ]
-    },
-    {
-      "name": "letta-ai /letta-code",
-      "description": "The memory-first coding agent",
-      "language": "TypeScript",
-      "stars": "1,508",
-      "forks": "156",
-      "starsToday": "22",
-      "url": "https://github.com/letta-ai/letta-code",
-      "builtBy": [
-        "@cpacker",
-        "@letta-code",
-        "@github-actions",
-        "@jnjpng",
-        "@kl2806"
-      ]
-    },
-    {
-      "name": "ruvnet /wifi-densepose",
-      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
+      "name": "p-e-w /heretic",
+      "description": "Fully automatic censorship removal for language models",
       "language": "Python",
-      "stars": "6,865",
-      "forks": "587",
-      "starsToday": "344",
-      "url": "https://github.com/ruvnet/wifi-densepose",
+      "stars": "7,251",
+      "forks": "731",
+      "starsToday": "656",
+      "url": "https://github.com/p-e-w/heretic",
       "builtBy": [
-        "@ruvnet",
-        "@claude"
+        "@p-e-w",
+        "@anrp",
+        "@spikymoth",
+        "@red40maxxer",
+        "@kldzj"
       ]
     },
     {
       "name": "seerr-team /seerr",
       "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
       "language": "TypeScript",
-      "stars": "9,127",
-      "forks": "604",
-      "starsToday": "182",
+      "stars": "9,335",
+      "forks": "612",
+      "starsToday": "282",
       "url": "https://github.com/seerr-team/seerr",
       "builtBy": [
         "@fallenbagel",
@@ -142,12 +33,123 @@
       ]
     },
     {
+      "name": "obra /superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": "53,630",
+      "forks": "4,071",
+      "starsToday": "569",
+      "url": "https://github.com/obra/superpowers",
+      "builtBy": [
+        "@obra",
+        "@claude",
+        "@arittr",
+        "@clkao",
+        "@jjshanks"
+      ]
+    },
+    {
+      "name": "steipete /gogcli",
+      "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+      "language": "Go",
+      "stars": "3,874",
+      "forks": "320",
+      "starsToday": "469",
+      "url": "https://github.com/steipete/gogcli",
+      "builtBy": [
+        "@steipete",
+        "@salmonumbrella",
+        "@claude",
+        "@jeanregisser",
+        "@antons"
+      ]
+    },
+    {
+      "name": "alibaba /zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars": "4,503",
+      "forks": "239",
+      "starsToday": "1,473",
+      "url": "https://github.com/alibaba/zvec",
+      "builtBy": [
+        "@iaojnh",
+        "@feihongxu0824",
+        "@egolearner",
+        "@Cuiyus",
+        "@zhourrr"
+      ]
+    },
+    {
+      "name": "openclaw /openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "stars": "205,507",
+      "forks": "37,464",
+      "starsToday": "4,201",
+      "url": "https://github.com/openclaw/openclaw",
+      "builtBy": [
+        "@steipete",
+        "@vignesh07",
+        "@thewilloftheshadow",
+        "@claude",
+        "@gumadeiras"
+      ]
+    },
+    {
+      "name": "SynkraAI /aios-core",
+      "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+      "language": "JavaScript",
+      "stars": "1,206",
+      "forks": "406",
+      "starsToday": "194",
+      "url": "https://github.com/SynkraAI/aios-core",
+      "builtBy": [
+        "@claude",
+        "@Pedrovaleriolopez",
+        "@oalanicolas",
+        "@github-actions",
+        "@semantic-release-bot"
+      ]
+    },
+    {
+      "name": "ashishps1 /awesome-system-design-resources",
+      "description": "Learn System Design concepts and prepare for interviews using free resources.",
+      "language": "Java",
+      "stars": "32,830",
+      "forks": "7,301",
+      "starsToday": "510",
+      "url": "https://github.com/ashishps1/awesome-system-design-resources",
+      "builtBy": [
+        "@ashishps1",
+        "@systemdesign42",
+        "@ajitzero",
+        "@abdulrahim2002"
+      ]
+    },
+    {
+      "name": "steipete /summarize",
+      "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
+      "language": "TypeScript",
+      "stars": "3,452",
+      "forks": "217",
+      "starsToday": "119",
+      "url": "https://github.com/steipete/summarize",
+      "builtBy": [
+        "@steipete",
+        "@mvance",
+        "@vlnd0",
+        "@claude",
+        "@philippb"
+      ]
+    },
+    {
       "name": "hummingbot /hummingbot",
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
       "language": "Python",
-      "stars": "16,664",
-      "forks": "4,397",
-      "starsToday": "339",
+      "stars": "17,054",
+      "forks": "4,417",
+      "starsToday": "568",
       "url": "https://github.com/hummingbot/hummingbot",
       "builtBy": [
         "@cardosofede",
@@ -156,6 +158,54 @@
         "@yzhang1994",
         "@aarmoa"
       ]
+    },
+    {
+      "name": "anthropics /claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "language": "Python",
+      "stars": "14,495",
+      "forks": "2,428",
+      "starsToday": "87",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "builtBy": [
+        "@x5a",
+        "@alexalbertt",
+        "@claude",
+        "@zealoushacker",
+        "@zckly"
+      ]
+    },
+    {
+      "name": "davila7 /claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars": "20,730",
+      "forks": "1,935",
+      "starsToday": "111",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "builtBy": [
+        "@davila7",
+        "@claude",
+        "@github-actions",
+        "@actions-user",
+        "@odoldotol"
+      ]
+    },
+    {
+      "name": "OpenCTI-Platform /opencti",
+      "description": "Open Cyber Threat Intelligence Platform",
+      "language": "TypeScript",
+      "stars": "8,415",
+      "forks": "1,227",
+      "starsToday": "16",
+      "url": "https://github.com/OpenCTI-Platform/opencti",
+      "builtBy": [
+        "@SamuelHassine",
+        "@renovate",
+        "@richard-julien",
+        "@Archidoit",
+        "@Filigran-Automation"
+      ]
     }
   ],
   "weekly": [
@@ -163,9 +213,9 @@
       "name": "github /gh-aw",
       "description": "GitHub Agentic Workflows",
       "language": "Go",
-      "stars": "2,964",
-      "forks": "214",
-      "starsToday": "2,199",
+      "stars": "3,044",
+      "forks": "218",
+      "starsToday": "1,872",
       "url": "https://github.com/github/gh-aw",
       "builtBy": [
         "@Copilot",
@@ -176,28 +226,12 @@
       ]
     },
     {
-      "name": "google /langextract",
-      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
-      "language": "Python",
-      "stars": "32,745",
-      "forks": "2,188",
-      "starsToday": "7,658",
-      "url": "https://github.com/google/langextract",
-      "builtBy": [
-        "@aksg87",
-        "@kleeena",
-        "@mariano",
-        "@tonebeta",
-        "@dependabot"
-      ]
-    },
-    {
       "name": "Jeffallan /claude-skills",
       "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
       "language": "Python",
-      "stars": "2,900",
-      "forks": "181",
-      "starsToday": "2,342",
+      "stars": "3,020",
+      "forks": "192",
+      "starsToday": "2,461",
       "url": "https://github.com/Jeffallan/claude-skills",
       "builtBy": [
         "@Jeffallan",
@@ -208,44 +242,44 @@
       ]
     },
     {
-      "name": "KeygraphHQ /shannon",
-      "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
-      "language": "TypeScript",
-      "stars": "22,921",
-      "forks": "2,291",
-      "starsToday": "6,966",
-      "url": "https://github.com/KeygraphHQ/shannon",
+      "name": "google /langextract",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "language": "Python",
+      "stars": "32,882",
+      "forks": "2,194",
+      "starsToday": "6,121",
+      "url": "https://github.com/google/langextract",
       "builtBy": [
-        "@ajmallesh",
-        "@claude",
-        "@keygraphVarun",
-        "@ezl-keygraph",
-        "@Khaushik-keygraph"
+        "@aksg87",
+        "@kleeena",
+        "@mariano",
+        "@tonebeta",
+        "@dependabot"
       ]
     },
     {
-      "name": "badlogic /pi-mono",
-      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
-      "language": "TypeScript",
-      "stars": "12,936",
-      "forks": "1,302",
-      "starsToday": "4,425",
-      "url": "https://github.com/badlogic/pi-mono",
+      "name": "p-e-w /heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "stars": "7,251",
+      "forks": "731",
+      "starsToday": "1,778",
+      "url": "https://github.com/p-e-w/heretic",
       "builtBy": [
-        "@badlogic",
-        "@hjanuschka",
-        "@markusylisiurunen",
-        "@github-actions",
-        "@aliou"
+        "@p-e-w",
+        "@anrp",
+        "@spikymoth",
+        "@red40maxxer",
+        "@kldzj"
       ]
     },
     {
       "name": "ChromeDevTools /chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars": "25,658",
-      "forks": "1,513",
-      "starsToday": "2,041",
+      "stars": "25,790",
+      "forks": "1,518",
+      "starsToday": "2,059",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "builtBy": [
         "@OrKoN",
@@ -256,44 +290,60 @@
       ]
     },
     {
-      "name": "hsliuping /TradingAgents-CN",
-      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
-      "language": "Python",
-      "stars": "17,376",
-      "forks": "3,734",
-      "starsToday": "1,299",
-      "url": "https://github.com/hsliuping/TradingAgents-CN",
+      "name": "danielmiessler /Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "stars": "8,675",
+      "forks": "1,199",
+      "starsToday": "2,263",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
       "builtBy": [
-        "@hsliuping",
-        "@Yijia-Xiao",
-        "@EdwardoSunny",
-        "@ZeroAct",
-        "@BG8CFB"
+        "@danielmiessler",
+        "@claude",
+        "@kaimagnus",
+        "@ksylvan",
+        "@mvoehringer"
       ]
     },
     {
-      "name": "pydantic /monty",
-      "description": "A minimal, secure Python interpreter written in Rust for use by AI",
-      "language": "Rust",
-      "stars": "5,420",
-      "forks": "198",
-      "starsToday": "1,854",
-      "url": "https://github.com/pydantic/monty",
+      "name": "badlogic /pi-mono",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "language": "TypeScript",
+      "stars": "13,176",
+      "forks": "1,325",
+      "starsToday": "3,326",
+      "url": "https://github.com/badlogic/pi-mono",
       "builtBy": [
-        "@samuelcolvin",
-        "@davidhewitt",
-        "@petyosi",
+        "@badlogic",
+        "@hjanuschka",
+        "@markusylisiurunen",
+        "@github-actions",
+        "@aliou"
+      ]
+    },
+    {
+      "name": "steipete /summarize",
+      "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
+      "language": "TypeScript",
+      "stars": "3,452",
+      "forks": "217",
+      "starsToday": "1,628",
+      "url": "https://github.com/steipete/summarize",
+      "builtBy": [
+        "@steipete",
+        "@mvance",
+        "@vlnd0",
         "@claude",
-        "@Bl3f"
+        "@philippb"
       ]
     },
     {
       "name": "tambo-ai /tambo",
       "description": "Generative UI SDK for React",
       "language": "TypeScript",
-      "stars": "10,437",
-      "forks": "507",
-      "starsToday": "2,273",
+      "stars": "10,589",
+      "forks": "514",
+      "starsToday": "2,540",
       "url": "https://github.com/tambo-ai/tambo",
       "builtBy": [
         "@dependabot",
@@ -304,90 +354,12 @@
       ]
     },
     {
-      "name": "gitbutlerapp /gitbutler",
-      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
-      "language": "Rust",
-      "stars": "19,405",
-      "forks": "842",
-      "starsToday": "840",
-      "url": "https://github.com/gitbutlerapp/gitbutler",
-      "builtBy": [
-        "@krlvi",
-        "@estib-vega",
-        "@mtsgrd",
-        "@ngalaiko",
-        "@Caleb-T-Owens"
-      ]
-    },
-    {
-      "name": "danielmiessler /Personal_AI_Infrastructure",
-      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "language": "TypeScript",
-      "stars": "8,586",
-      "forks": "1,187",
-      "starsToday": "2,207",
-      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "builtBy": [
-        "@danielmiessler",
-        "@claude",
-        "@ksylvan",
-        "@mvoehringer",
-        "@m4nt0de4"
-      ]
-    },
-    {
-      "name": "carlvellotti /claude-code-pm-course",
-      "description": "Interactive course teaching Product Managers how to use Claude Code effectively",
-      "language": "MDX",
-      "stars": "1,376",
-      "forks": "206",
-      "starsToday": "698",
-      "url": "https://github.com/carlvellotti/claude-code-pm-course",
-      "builtBy": [
-        "@carlvellotti",
-        "@claude",
-        "@github-actions"
-      ]
-    },
-    {
-      "name": "EveryInc /compound-engineering-plugin",
-      "description": "Official Claude Code compound engineering plugin",
-      "language": "TypeScript",
-      "stars": "9,058",
-      "forks": "707",
-      "starsToday": "1,346",
-      "url": "https://github.com/EveryInc/compound-engineering-plugin",
-      "builtBy": [
-        "@kieranklaassen",
-        "@claude",
-        "@tmchow",
-        "@julik",
-        "@dshipper"
-      ]
-    },
-    {
-      "name": "virattt /dexter",
-      "description": "An autonomous agent for deep financial research",
-      "language": "TypeScript",
-      "stars": "15,545",
-      "forks": "1,853",
-      "starsToday": "2,276",
-      "url": "https://github.com/virattt/dexter",
-      "builtBy": [
-        "@virattt",
-        "@MkDev11",
-        "@cursoragent",
-        "@gupta-8",
-        "@sjhddh"
-      ]
-    },
-    {
       "name": "steipete /gogcli",
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "language": "Go",
-      "stars": "3,607",
-      "forks": "305",
-      "starsToday": "1,769",
+      "stars": "3,874",
+      "forks": "320",
+      "starsToday": "2,144",
       "url": "https://github.com/steipete/gogcli",
       "builtBy": [
         "@steipete",
@@ -396,6 +368,38 @@
         "@jeanregisser",
         "@antons"
       ]
+    },
+    {
+      "name": "KeygraphHQ /shannon",
+      "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+      "language": "TypeScript",
+      "stars": "23,220",
+      "forks": "2,317",
+      "starsToday": "4,055",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "builtBy": [
+        "@ajmallesh",
+        "@claude",
+        "@keygraphVarun",
+        "@ezl-keygraph",
+        "@Khaushik-keygraph"
+      ]
+    },
+    {
+      "name": "hsliuping /TradingAgents-CN",
+      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+      "language": "Python",
+      "stars": "17,413",
+      "forks": "3,740",
+      "starsToday": "849",
+      "url": "https://github.com/hsliuping/TradingAgents-CN",
+      "builtBy": [
+        "@hsliuping",
+        "@Yijia-Xiao",
+        "@EdwardoSunny",
+        "@ZeroAct",
+        "@BG8CFB"
+      ]
     }
   ],
   "monthly": [
@@ -403,25 +407,25 @@
       "name": "openclaw /openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
-      "stars": "202,461",
-      "forks": "36,453",
-      "starsToday": "195,873",
+      "stars": "205,507",
+      "forks": "37,464",
+      "starsToday": "199,307",
       "url": "https://github.com/openclaw/openclaw",
       "builtBy": [
         "@steipete",
         "@vignesh07",
         "@thewilloftheshadow",
-        "@gumadeiras",
-        "@claude"
+        "@claude",
+        "@gumadeiras"
       ]
     },
     {
       "name": "badlogic /pi-mono",
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
-      "stars": "12,936",
-      "forks": "1,302",
-      "starsToday": "10,950",
+      "stars": "13,176",
+      "forks": "1,325",
+      "starsToday": "11,199",
       "url": "https://github.com/badlogic/pi-mono",
       "builtBy": [
         "@badlogic",
@@ -435,9 +439,9 @@
       "name": "KeygraphHQ /shannon",
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
-      "stars": "22,921",
-      "forks": "2,291",
-      "starsToday": "18,901",
+      "stars": "23,220",
+      "forks": "2,317",
+      "starsToday": "19,269",
       "url": "https://github.com/KeygraphHQ/shannon",
       "builtBy": [
         "@ajmallesh",
@@ -448,26 +452,12 @@
       ]
     },
     {
-      "name": "VectifyAI /PageIndex",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "language": "Python",
-      "stars": "15,329",
-      "forks": "1,109",
-      "starsToday": "9,900",
-      "url": "https://github.com/VectifyAI/PageIndex",
-      "builtBy": [
-        "@rejojer",
-        "@zmtomorrow",
-        "@clarenceluo78"
-      ]
-    },
-    {
       "name": "remotion-dev /remotion",
       "description": "🎥 Make videos programmatically with React",
       "language": "TypeScript",
-      "stars": "36,861",
-      "forks": "2,251",
-      "starsToday": "11,574",
+      "stars": "36,973",
+      "forks": "2,259",
+      "starsToday": "11,672",
       "url": "https://github.com/remotion-dev/remotion",
       "builtBy": [
         "@JonnyBurger",
@@ -478,12 +468,42 @@
       ]
     },
     {
+      "name": "VectifyAI /PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "language": "Python",
+      "stars": "15,432",
+      "forks": "1,120",
+      "starsToday": "9,963",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "builtBy": [
+        "@rejojer",
+        "@zmtomorrow",
+        "@clarenceluo78"
+      ]
+    },
+    {
+      "name": "openai /skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "stars": "8,833",
+      "forks": "492",
+      "starsToday": "7,150",
+      "url": "https://github.com/openai/skills",
+      "builtBy": [
+        "@gverma-openai",
+        "@dkundel-openai",
+        "@vb-openai",
+        "@ae-openai",
+        "@edward-bayes"
+      ]
+    },
+    {
       "name": "tobi /qmd",
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
-      "stars": "8,881",
-      "forks": "480",
-      "starsToday": "6,893",
+      "stars": "9,090",
+      "forks": "492",
+      "starsToday": "7,113",
       "url": "https://github.com/tobi/qmd",
       "builtBy": [
         "@tobi",
@@ -497,9 +517,9 @@
       "name": "asgeirtj /system_prompts_leaks",
       "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
       "language": "HTML",
-      "stars": "31,771",
-      "forks": "5,073",
-      "starsToday": "6,667",
+      "stars": "31,878",
+      "forks": "5,084",
+      "starsToday": "6,796",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "builtBy": [
         "@asgeirtj",
@@ -510,44 +530,28 @@
       ]
     },
     {
-      "name": "openai /skills",
-      "description": "Skills Catalog for Codex",
-      "language": "Python",
-      "stars": "8,741",
-      "forks": "487",
-      "starsToday": "7,082",
-      "url": "https://github.com/openai/skills",
+      "name": "steipete /gogcli",
+      "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+      "language": "Go",
+      "stars": "3,874",
+      "forks": "320",
+      "starsToday": "3,238",
+      "url": "https://github.com/steipete/gogcli",
       "builtBy": [
-        "@gverma-openai",
-        "@dkundel-openai",
-        "@vb-openai",
-        "@ae-openai",
-        "@edward-bayes"
-      ]
-    },
-    {
-      "name": "iOfficeAI /AionUi",
-      "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "language": "TypeScript",
-      "stars": "16,134",
-      "forks": "1,215",
-      "starsToday": "12,145",
-      "url": "https://github.com/iOfficeAI/AionUi",
-      "builtBy": [
-        "@kuishou68",
-        "@IceyLiu",
-        "@halvee-tech",
-        "@goworm",
-        "@claude"
+        "@steipete",
+        "@salmonumbrella",
+        "@claude",
+        "@jeanregisser",
+        "@antons"
       ]
     },
     {
       "name": "obra /superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": "52,985",
-      "forks": "4,020",
-      "starsToday": "27,434",
+      "stars": "53,630",
+      "forks": "4,071",
+      "starsToday": "26,690",
       "url": "https://github.com/obra/superpowers",
       "builtBy": [
         "@obra",
@@ -561,9 +565,9 @@
       "name": "anthropics /skills",
       "description": "Public repository for Agent Skills",
       "language": "Python",
-      "stars": "70,765",
-      "forks": "7,204",
-      "starsToday": "28,042",
+      "stars": "71,086",
+      "forks": "7,247",
+      "starsToday": "27,730",
       "url": "https://github.com/anthropics/skills",
       "builtBy": [
         "@klazuka",
@@ -574,12 +578,28 @@
       ]
     },
     {
+      "name": "iOfficeAI /AionUi",
+      "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+      "language": "TypeScript",
+      "stars": "16,259",
+      "forks": "1,223",
+      "starsToday": "11,734",
+      "url": "https://github.com/iOfficeAI/AionUi",
+      "builtBy": [
+        "@kuishou68",
+        "@IceyLiu",
+        "@halvee-tech",
+        "@goworm",
+        "@claude"
+      ]
+    },
+    {
       "name": "gsd-build /get-shit-done",
       "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
       "language": "JavaScript",
-      "stars": "14,974",
-      "forks": "1,394",
-      "starsToday": "11,626",
+      "stars": "15,365",
+      "forks": "1,414",
+      "starsToday": "11,671",
       "url": "https://github.com/gsd-build/get-shit-done",
       "builtBy": [
         "@glittercowboy",
@@ -593,9 +613,9 @@
       "name": "tambo-ai /tambo",
       "description": "Generative UI SDK for React",
       "language": "TypeScript",
-      "stars": "10,437",
-      "forks": "507",
-      "starsToday": "8,333",
+      "stars": "10,589",
+      "forks": "514",
+      "starsToday": "8,580",
       "url": "https://github.com/tambo-ai/tambo",
       "builtBy": [
         "@dependabot",
@@ -604,72 +624,8 @@
         "@tambo-bot",
         "@akhileshrangani4"
       ]
-    },
-    {
-      "name": "thedotmack /claude-mem",
-      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "language": "TypeScript",
-      "stars": "28,662",
-      "forks": "1,920",
-      "starsToday": "14,725",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "builtBy": [
-        "@thedotmack",
-        "@claude",
-        "@Copilot",
-        "@rodboev",
-        "@github-actions"
-      ]
-    },
-    {
-      "name": "ThePrimeagen /99",
-      "description": "Neovim AI agent done right",
-      "language": "Lua",
-      "stars": "3,829",
-      "forks": "182",
-      "starsToday": "2,803",
-      "url": "https://github.com/ThePrimeagen/99",
-      "builtBy": [
-        "@ThePrimeagen",
-        "@SearidangPa",
-        "@codegirl-007",
-        "@ramonasuncion",
-        "@jellydn"
-      ]
-    },
-    {
-      "name": "anomalyco /opencode",
-      "description": "The open source coding agent.",
-      "language": "TypeScript",
-      "stars": "105,697",
-      "forks": "10,324",
-      "starsToday": "33,216",
-      "url": "https://github.com/anomalyco/opencode",
-      "builtBy": [
-        "@thdxr",
-        "@adamdotdevin",
-        "@rekram1-node",
-        "@actions-user",
-        "@iamdavidhill"
-      ]
-    },
-    {
-      "name": "virattt /dexter",
-      "description": "An autonomous agent for deep financial research",
-      "language": "TypeScript",
-      "stars": "15,545",
-      "forks": "1,853",
-      "starsToday": "8,496",
-      "url": "https://github.com/virattt/dexter",
-      "builtBy": [
-        "@virattt",
-        "@MkDev11",
-        "@cursoragent",
-        "@gupta-8",
-        "@sjhddh"
-      ]
     }
   ],
-  "lastUpdated": "2026-02-17T06:34:22.692725",
-  "totalRepositories": 42
+  "lastUpdated": "2026-02-18T01:53:22.558356",
+  "totalRepositories": 39
 }
